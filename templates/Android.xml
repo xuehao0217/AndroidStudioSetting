@@ -1,0 +1,31 @@
+<templateSet group="Android">
+  <template name="fdv" value="($cast$) findViewById(R.id.$resId$);" description="findViewById with cast" toReformat="true" toShortenFQNames="true">
+    <variable name="cast" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for ($i$ : $data$) {&#10;    $cursor$&#10;}" description="Create a for each loop" toReformat="true" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="con" value="/**&#10; * &#10; */&#10;private static final int $name$ = $value$;" description="Define android style int constant" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="NAME" alwaysStopAt="true" />
+    <variable name="value" expression="groovyScript(&quot;new Random().nextInt(1000)&quot;)" defaultValue="0" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="tt" value="android.widget.Toast.makeText($className$.this, &quot;$text$&quot;, Toast.LENGTH_SHORT).show();" description="Create a new Toast" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

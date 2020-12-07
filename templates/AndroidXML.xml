@@ -1,0 +1,27 @@
+<templateSet group="AndroidXML">
+  <template name="tv" value="&lt;TextView&#10;    android:id=&quot;@+id/tv_&quot;&#10;    android:textSize=&quot;15dp&quot;&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:layout_marginLeft=&quot;10dp&quot;&#10;    android:text=&quot;&quot;&#10;    android:textColor=&quot;@color/white&quot;/&gt;" description="textview case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="iv" value="&lt;ImageView&#10;    android:id=&quot;@+id/iv_&quot;&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:src=&quot;@drawable/null&quot;&#10;    android:visibility=&quot;visible&quot;&#10;    /&gt;" description="ImageView case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="lin" value=" &lt;LinearLayout&#10;    android:id=&quot;@+id/lin_&quot;&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:orientation=&quot;horizontal&quot;&#10;    android:background=&quot;@drawable/null&quot;&#10;    android:visibility=&quot;gone&quot;&#10;    android:layout_marginTop=&quot;20dp&quot;&#10;    &gt;&#10;    &#10;    &lt;/LinearLayout&gt;" description="LinearLayout case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="rl" value="&lt;RelativeLayout&#10;    android:id=&quot;@+id/rl_&quot;&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:background=&quot;@drawable/null&quot;&#10;    android:visibility=&quot;gone&quot;&#10;    android:layout_marginTop=&quot;20dp&quot;&#10;    &gt;&#10;    &#10;    &lt;/RelativeLayout&gt;" description="RelativeLayout case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="fl" value=" &lt;FrameLayout&#10;        android:id=&quot;@+id/fl_&quot;&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;        android:layout_gravity=&quot;center&quot;&#10;        &gt;&#10;        &#10;        &lt;/FrameLayout&gt;" description="FrameLayout case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

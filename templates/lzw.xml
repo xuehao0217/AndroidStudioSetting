@@ -1,0 +1,11 @@
+<templateSet group="lzw">
+  <template name="lzw" value="/**&#10; * 描述：&#10; * @author Created by lzw&#10; * @email XXXXXX@163.com&#10; * @time Created on $DATE$ $TIME$&#10; */" description="类注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

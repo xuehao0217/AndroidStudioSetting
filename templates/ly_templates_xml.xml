@@ -1,0 +1,32 @@
+<templateSet group="ly_templates_xml">
+  <template name="tv" value="&lt;TextView&#10;    android:id=&quot;@+id/tv_&quot;&#10;    android:textSize=&quot;15dp&quot;&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:layout_marginLeft=&quot;10dp&quot;&#10;    android:text=&quot;&quot;&#10;    android:textColor=&quot;@color/white&quot;/&gt;" description="textview case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="rl" value="&lt;RelativeLayout&#10;    android:id=&quot;@+id/rl_&quot;&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:background=&quot;@drawable/null&quot;&#10;    android:visibility=&quot;gone&quot;&#10;    android:layout_marginTop=&quot;20dp&quot;&#10;    &gt;&#10;    &#10;    &lt;/RelativeLayout&gt;" description="RelativeLayout case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="fl" value=" &lt;FrameLayout&#10;        android:id=&quot;@+id/fl_&quot;&#10;        android:layout_width=&quot;wrap_content&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;        android:layout_gravity=&quot;center&quot;&#10;        &gt;&#10;        &#10;        &lt;/FrameLayout&gt;" description="FrameLayout case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="iv" value="&lt;ImageView&#10;    android:id=&quot;@+id/iv_&quot;&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:src=&quot;@drawable/null&quot;&#10;    android:visibility=&quot;visible&quot;&#10;    android:scaleType=&quot;fitXY--显示效果--http://www.2cto.com/kf/201411/348601.html&quot;&#10;    /&gt;" description="ImageView case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="lv" value="&lt;ListView&#10;    android:id=&quot;@+id/lv_&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;match_parent&quot;&#10;    android:cacheColorHint=&quot;@android:color/transparent&quot;&#10;    android:divider=&quot;@null&quot;&#10;    android:listSelector=&quot;@android:color/transparent&quot;&#10;    android:scrollbars=&quot;none&quot;&#10;    android:transcriptMode=&quot;alwaysScroll--最新的条目数据自动到华东到底部&quot;&#10;    android:fadingEdge=&quot;vertical--fadingEdge:拉滚动条时 ，边框渐变的放向&quot;  &gt;&#10;&lt;/ListView&gt;" description="listview case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="include" value=" &lt;include layout=&quot;@layout/&quot;&#10;        android:id=&quot;@+id/include_&quot;&#10;        android:visibility=&quot;gone&quot;&#10;        &gt;&lt;/include&gt;" description="include case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,28 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="stless" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="stful" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="inh" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="stanim" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="ihof" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

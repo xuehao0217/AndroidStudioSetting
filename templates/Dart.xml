@@ -1,0 +1,7 @@
+<templateSet group="Dart">
+  <template name="zs" value="/// " description="Dart的文档注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

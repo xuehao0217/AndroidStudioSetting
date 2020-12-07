@@ -1,0 +1,96 @@
+<templateSet group="user">
+  <template name="if" value="if ($END$) {  &#10;     &#10;}  &#10;" description="if" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="st" value="/***/&#10;private String" description="string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="doc" value="/**&#10; * @author: luyang@duia.com create time: $DATE$ $TIME$ create version: 3.0&#10; * description: &#10; */  &#10;" shortcut="SPACE" description="方法注释" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="rfdv" value=" = (RelativeLayout) findViewById(R.id.$resId$);//" shortcut="SPACE" description="(RelativeLayout)findviewbyid(R.id.**);" toReformat="false" toShortenFQNames="true">
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lfdv" value=" = (LinearLayout) findViewById(R.id.$resId$);//" description="findViewById with cast" toReformat="false" toShortenFQNames="true">
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ffdv" value=" = (Framlayout) findViewById(R.id.$resId$);//" description="findViewById with cast" toReformat="false" toShortenFQNames="true">
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tfdv" value=" = (TextView) findViewById(R.id.$resId$);//" description="findViewById with cast" toReformat="false" toShortenFQNames="true">
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="efdv" value=" = (EditText) findViewById(R.id.$resId$);//" description="= (EditText) findViewById(R.id.$resId$);" toReformat="false" toShortenFQNames="true">
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fdv_c" value="($cast$) $root$.findViewById(R.id.$resId$);" description="findviewbyid child" toReformat="false" toShortenFQNames="true">
+    <variable name="cast" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="root" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bmp" value="Bitmap $var$ = BitmapFactory.decodeResource($resource$, R.id.$resId$);" description="Bitmap $var$ = BitmapFactory.decodeResource($resource$, R.id.$resId$);" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resource" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="recycleadapter" value="import android.content.Context;&#10;import android.support.v7.widget.RecyclerView;&#10;import android.view.LayoutInflater;&#10;import android.view.View;&#10;import android.view.ViewGroup;&#10;import java.util.Collections;&#10;import java.util.List;&#10;&#10;/************修改1************/&#10;public class RecyclerAdapter/*******修改2************/&#10;&#9;&#9;extends RecyclerView.Adapter&lt;RecyclerAdapter.ViewHolder&gt; {&#10;&#9;&#10;&#9;private final Context context;&#10;&#9;private List&lt;String&gt; stringlist = Collections.emptyList();&#10;&#9;/************修改3************/&#10;&#9;public RecyclerAdapter(Context context) {&#10;&#9;&#9;this.context = context;&#10;&#9;}&#10;&#9;&#10;&#9;public void updateItems(List&lt;String&gt; stringlist) {&#10;&#9;&#9;this.stringlist = stringlist;&#10;&#9;&#9;notifyDataSetChanged();&#10;&#9;}&#10;&#9;&#10;&#9;@Override&#10;&#9;public ViewHolder onCreateViewHolder(ViewGroup viewGroup, int i) {&#10;&#9;&#9;View view =/********************************************************修改4************/&#10;&#9;&#9;&#9;&#9;LayoutInflater.from(viewGroup.getContext()).inflate(R.layout., viewGroup, false);&#10;&#9;&#9;return new ViewHolder(view);&#10;&#9;}&#10;&#9;&#10;&#9;@Override&#10;&#9;public void onBindViewHolder(ViewHolder viewHolder, int i) {&#10;&#9;&#9;String str = stringlist.get(i);&#10;&#9;&#9;bindeData2View(str, viewHolder);&#10;&#9;}&#10;&#9;&#10;&#9;@Override&#10;&#9;public int getItemCount() {&#10;&#9;&#9;return stringlist.size();&#10;&#9;}&#10;&#9;&#10;&#9;private void bindeData2View(String str, ViewHolder viewHolder) {&#10;&#9;&#9;&#10;&#9;}&#10;&#9;public class ViewHolder extends RecyclerView.ViewHolder {&#10;&#9;&#9;//TextView ;&#10;&#9;&#9;//TextView ;&#10;&#9;&#9;//TextView ;&#10;&#9;&#9;//ImageView ;&#10;&#9;&#9;//ImageView ;&#10;&#9;&#9;public ViewHolder(View v) {&#10;&#9;&#9;&#9;super(v);&#10;&#9;&#9;&#9;// = ViewHolder.get(v, R.id.);&#10;&#9;&#9;&#9;// = ViewHolder.get(v, R.id.);&#10;&#9;&#9;&#9;// = ViewHolder.get(v, R.id.);&#10;&#9;&#9;&#9;// = ViewHolder.get(v, R.id.);&#10;&#9;&#9;&#9;// = ViewHolder.get(v, R.id.);&#10;&#9;&#9;}&#10;&#9;}&#10;}" description="recycleview adapter" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ci" value="public static final int $VAR$ = $VALUE$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cs" value="public static final String $VAR$ = $VALUE$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tag" value="public static final String TAG = &quot;$CLASSNMAE$&quot;;" description="TAG" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNMAE" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="le" value="Log.e(&quot;$CLASSNAME$&quot;,&quot;&quot;);" description="Log.e" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
