@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[repo] - failure to execute git command [git pull] under" />
+      <item value="please commit or revert changes before checkout other branch." />
       <item value="branch release -&gt; FETCH_HEAD e590be3..e8de35b release -&gt; origin/release" />
       <item value="failure to execute git command [git pull] under" />
       <item value=" everything is up-to-date" />
@@ -10,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
