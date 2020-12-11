@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amend" />
       <item value="git commit --amend --author=&quot;yourname &lt;yourname@soyoung.com&gt;&quot;" />
       <item value="Invalid VCS root mapping The directory &lt;Proj…orm/module_beautycard is registered as a Git root, but no Git repositories were found there." />
       <item value="directory" />
@@ -22,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
