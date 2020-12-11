@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid VCS root mapping The directory &lt;Proj…orm/module_beautycard is registered as a Git root, but no Git repositories were found there." />
+      <item value="directory" />
       <item value="[repo] - failure to execute git command [git pull] under" />
       <item value=": [repo] - failure to execute git command [git pull] under" />
       <item value="Caused by: java.lang.RuntimeException: [repo] - failure to execute git command [git pull] under" />
@@ -19,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
