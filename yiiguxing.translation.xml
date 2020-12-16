@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout" />
       <item value="pull" />
       <item value="amend" />
       <item value="git commit --amend --author=&quot;yourname &lt;yourname@soyoung.com&gt;&quot;" />
