@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rule" />
       <item value="android_platform: push release to origin/release was rejected by remote" />
       <item value="ClockIn" />
       <item value="Money" />
@@ -40,7 +41,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
