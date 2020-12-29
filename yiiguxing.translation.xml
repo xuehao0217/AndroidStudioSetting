@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="android_platform: push release to origin/release was rejected by remote" />
       <item value="ClockIn" />
       <item value="Money" />
       <item value="/** * repeat the shader's image horizontally and vertically, alternating * mirror images so that adjacent images always seam */" />
