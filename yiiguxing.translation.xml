@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Your branch is up to date with 'origin/xh_dev_816'" />
       <item value="rule" />
       <item value="android_platform: push release to origin/release was rejected by remote" />
       <item value="ClockIn" />
@@ -40,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
