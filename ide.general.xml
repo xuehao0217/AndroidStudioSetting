@@ -12,7 +12,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
-        <entry key="git" value="false" />
+        <entry key="Memory" value="true" />
       </map>
     </option>
   </component>
