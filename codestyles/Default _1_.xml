@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="FIELD_NAME_PREFIX" value="m" />
   <option name="STATIC_FIELD_NAME_PREFIX" value="m" />
   <option name="PARAMETER_NAME_PREFIX" value="m" />
@@ -30,9 +31,6 @@
       <emptyLine />
     </value>
   </option>
-  <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
     <option name="IMPORT_LAYOUT_TABLE">
