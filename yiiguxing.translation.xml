@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with Camera Distance" />
+      <item value="/** * Check if this view can be scrolled vertically in a certain direction. * * @param direction Negative to check scrolling up, positive to check scrolling down. * @return true if this view can be scrolled in the specified direction, false otherwise. */" />
       <item value="* The vertical location of this view relative to its {@link #getTop() top} position. * This position is post-layout, in addition to wherever the object's * layout placed it. * * @return The vertical position of this view relative to its top position, * in pixels." />
       <item value="* Sets the Activity that owns this dialog. An example use: This Dialog will * use the suggested volume control stream of the Activity. * * @param activity The Activity that owns this dialog." />
       <item value="Wallet" />
@@ -45,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
