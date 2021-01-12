@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="at Its Original Position" />
       <item value="with Camera Distance" />
       <item value="/** * Check if this view can be scrolled vertically in a certain direction. * * @param direction Negative to check scrolling up, positive to check scrolling down. * @return true if this view can be scrolled in the specified direction, false otherwise. */" />
       <item value="* The vertical location of this view relative to its {@link #getTop() top} position. * This position is post-layout, in addition to wherever the object's * layout placed it. * * @return The vertical position of this view relative to its top position, * in pixels." />
@@ -47,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
