@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* A container for storing the rotation values for the flip animation" />
       <item value="at Its Original Position" />
       <item value="with Camera Distance" />
       <item value="/** * Check if this view can be scrolled vertically in a certain direction. * * @param direction Negative to check scrolling up, positive to check scrolling down. * @return true if this view can be scrolled in the specified direction, false otherwise. */" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
