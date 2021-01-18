@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="small View" />
+      <item value="父" />
       <item value="Expose" />
       <item value="bbs/module_home: push release to origin/release was rejected by remote" />
       <item value="* A container for storing the rotation values for the flip animation" />
@@ -52,7 +54,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="47" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
       </map>
     </option>
