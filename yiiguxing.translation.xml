@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="修改" />
       <item value="FIRST" />
       <item value="验证" />
       <item value="verify" />
@@ -50,12 +51,11 @@
       <item value="Invalid VCS root mapping The directory &lt;Proj…orm/module_beautycard is registered as a Git root, but no Git repositories were found there." />
       <item value="directory" />
       <item value="[repo] - failure to execute git command [git pull] under" />
-      <item value=": [repo] - failure to execute git command [git pull] under" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
