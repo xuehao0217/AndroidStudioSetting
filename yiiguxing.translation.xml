@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Called when the hidden state (as returned by {@link #isHidden()} of * the fragment has changed. Fragments start out not hidden; this will * be called whenever the fragment changes state from that. * @param hidden True if the fragment is now hidden, false otherwise. */" />
       <item value="Returns the visibility of this view and all of its ancestors" />
       <item value="is skip" />
       <item value="gender" />
@@ -50,12 +51,11 @@
       <item value="standard" />
       <item value="hardware Accelerated" />
       <item value="problem occurred evaluating project ':common_activity'. &gt; Cannot convert a null value to an object of type Dependency. The following types/formats are supported: - Instances of Dependency. - String or CharSequence values, for example 'org.gradle:gradle-core:1.0'. - Maps, for example [group: 'org.gradle', name: 'gradle-core', version: '1.0']. - FileCollections, for example files('some.jar', 'someOther.jar'). - Projects, for example project(':some:project:path'). - ClassPathNotation, for example gradleApi()." />
-      <item value="layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
