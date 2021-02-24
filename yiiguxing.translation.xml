@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the value to set." />
+      <item value="the metadata for the property." />
+      <item value="the object for which the value is requested." />
+      <item value="the type of the property value" />
+      <item value="the type of object which owns the delegated property." />
       <item value="* Returns the value of the property for the given object. * @param thisRef the object for which the value is requested. * @param property the metadata for the property. * @return the property value." />
       <item value="* Called when the hidden state (as returned by {@link #isHidden()} of * the fragment has changed. Fragments start out not hidden; this will * be called whenever the fragment changes state from that. * @param hidden True if the fragment is now hidden, false otherwise. */" />
       <item value="Returns the visibility of this view and all of its ancestors" />
@@ -46,16 +51,11 @@
       <item value="/** * replicate the edge color if the shader draws outside of its * original bounds */" />
       <item value="/** * Create a shader that draws a linear gradient along a line. * * @param x0 The x-coordinate for the start of the gradient line * @param y0 The y-coordinate for the start of the gradient line * @param x1 The x-coordinate for the end of the gradient line * @param y1 The y-coordinate for the end of the gradient line * @param colors The colors to be distributed along the gradient line * @param positions May be null. The relative positions [0..1] of * each corresponding color in the colors array. If this is null, * the the colors are distributed evenly along the gradient line. * @param tile The Shader tiling mode */" />
       <item value="Shader" />
-      <item value="more than one time" />
-      <item value="repo] - module ':platform:module_face': please commit or revert changes before checkout other branch." />
-      <item value="权限" />
-      <item value="standard" />
-      <item value="hardware Accelerated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
