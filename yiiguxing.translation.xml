@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discount" />
       <item value="The name of this callable as it was declared in the source code. * If the callable has no name, a special invented name is created. * Nameless callables include: * - constructors have the name &quot;&lt;init&gt;&quot;, * - property accessors: the getter for a property named &quot;foo&quot; will have the name &quot;&lt;get-foo&gt;&quot;, * the setter, similarly, will have the name &quot;&lt;set-foo&gt;&quot;. */" />
       <item value="the value to set." />
       <item value="the metadata for the property." />
@@ -50,12 +51,11 @@
       <item value="/** * repeat the shader's image horizontally and vertically, alternating * mirror images so that adjacent images always seam */" />
       <item value="/** * repeat the shader's image horizontally and vertically */" />
       <item value="/** * replicate the edge color if the shader draws outside of its * original bounds */" />
-      <item value="/** * Create a shader that draws a linear gradient along a line. * * @param x0 The x-coordinate for the start of the gradient line * @param y0 The y-coordinate for the start of the gradient line * @param x1 The x-coordinate for the end of the gradient line * @param y1 The y-coordinate for the end of the gradient line * @param colors The colors to be distributed along the gradient line * @param positions May be null. The relative positions [0..1] of * each corresponding color in the colors array. If this is null, * the the colors are distributed evenly along the gradient line. * @param tile The Shader tiling mode */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
