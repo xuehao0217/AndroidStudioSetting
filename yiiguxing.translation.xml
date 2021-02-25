@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="activity" />
+      <item value="活动" />
       <item value="discount" />
       <item value="The name of this callable as it was declared in the source code. * If the callable has no name, a special invented name is created. * Nameless callables include: * - constructors have the name &quot;&lt;init&gt;&quot;, * - property accessors: the getter for a property named &quot;foo&quot; will have the name &quot;&lt;get-foo&gt;&quot;, * the setter, similarly, will have the name &quot;&lt;set-foo&gt;&quot;. */" />
       <item value="the value to set." />
@@ -49,13 +51,11 @@
       <item value="ClockIn" />
       <item value="Money" />
       <item value="/** * repeat the shader's image horizontally and vertically, alternating * mirror images so that adjacent images always seam */" />
-      <item value="/** * repeat the shader's image horizontally and vertically */" />
-      <item value="/** * replicate the edge color if the shader draws outside of its * original bounds */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="77" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
