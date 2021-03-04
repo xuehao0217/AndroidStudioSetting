@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping pattern="traceconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
