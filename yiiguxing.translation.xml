@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate class" />
+      <item value="Duplicate class cn.asus.push.BuildConfig found in modules jetified-jpush-3.7.0-runtime.jar (cn.jiguang.sdk:jpush:3.7.0) and jetified-oppo-3.7.0-runtime.jar (cn.jiguang.sdk.plugin:oppo:3.7.0)" />
       <item value="activity" />
       <item value="活动" />
       <item value="discount" />
@@ -49,8 +51,6 @@
       <item value="rule" />
       <item value="android_platform: push release to origin/release was rejected by remote" />
       <item value="ClockIn" />
-      <item value="Money" />
-      <item value="/** * repeat the shader's image horizontally and vertically, alternating * mirror images so that adjacent images always seam */" />
     </histories>
     <option name="languageScores">
       <map>
