@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets whether this bottom sheet can hide when it is swiped down. @param hideable {@code true} to make this bottom sheet hideable. @attr ref com.google.android.material.R.styleableBottomSheetBehavior_Layout_behavior_hideable" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="Sets the scroll duration in ms per inch. &lt;p&gt; Default value is 100.0f &lt;p&gt; This value will be used in {@link GravitySnapHelpercreateScroller(RecyclerView.LayoutManager)} @param ms scroll duration in ms per inch" />
       <item value="If you need to access Adapter for additional data, you can call * {@link RecyclerView#getChildAdapterPosition(View)} to get the adapter position of the * View." />
@@ -50,7 +51,6 @@
       <item value="奇幻" />
       <item value="togger" />
       <item value="Positive" />
-      <item value="Caused by: java.lang.RuntimeException: [repo] - module ':hospital:module_hospital_api': please commit or revert changes before checkout other branch." />
     </histories>
     <option name="languageScores">
       <map>
