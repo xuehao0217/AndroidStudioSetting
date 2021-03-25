@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="Sets whether this bottom sheet can hide when it is swiped down. @param hideable {@code true} to make this bottom sheet hideable. @attr ref com.google.android.material.R.styleableBottomSheetBehavior_Layout_behavior_hideable" />
       <item value="默认&#10;" />
       <item value="调查&#10;" />
       <item value="doa" />
@@ -10,7 +11,6 @@
       <item value="评价&#10;" />
       <item value="p" />
       <item value="STATE EXPANDED" />
-      <item value="Sets whether this bottom sheet can hide when it is swiped down. @param hideable {@code true} to make this bottom sheet hideable. @attr ref com.google.android.material.R.styleableBottomSheetBehavior_Layout_behavior_hideable" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="Sets the scroll duration in ms per inch. &lt;p&gt; Default value is 100.0f &lt;p&gt; This value will be used in {@link GravitySnapHelpercreateScroller(RecyclerView.LayoutManager)} @param ms scroll duration in ms per inch" />
       <item value="If you need to access Adapter for additional data, you can call * {@link RecyclerView#getChildAdapterPosition(View)} to get the adapter position of the * View." />
@@ -57,7 +57,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
