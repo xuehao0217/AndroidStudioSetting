@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="No version of NDK matched the requested version 20.0.5594570. Versions available locally: 23.0.7196353-rc2, 23.0.7196353-rc2" />
       <item value="评价&#10;" />
       <item value="PI" />
       <item value="PING" />
@@ -52,18 +53,17 @@
       <item value="Caused by: org.gradle.internal.service.ServiceCreationException: Could not create service of type ExecutionHistoryStore using DependencyManagementGradleUserHomeScopeServices.createExecutionHistoryStore()." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 6.0. Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="修改" />
-      <item value="FIRST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616386304882" />
+    <option name="lastTrimTime" value="1616990088544" />
   </component>
 </application>
