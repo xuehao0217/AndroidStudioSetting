@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="Execution failed for task ':library_evaluation:uploadArchives'. &gt; Could not publish configuration 'archives' &gt; Could not deploy to remote repository | Failed to deploy artifacts: Could not transfer artifact com.soyoung:library-evaluation:aar:0.0.1 fromto remote (http:maven.sy.soyoung.comrepositoryandroid): Failed to transfer file: http:maven.sy.soyoung.comrepositoryandroidcomsoyounglibrary-evaluation0.0.1library-evaluation-0.0.1.aar. Return code is: 401, ReasonPhrase: Unauthorized." />
       <item value="评价&#10;" />
       <item value="评价" />
       <item value="Could not publish configuration 'archives'&#10;   &gt; Could not deploy to remote repository | Failed to deploy artifacts: Could not transfer artifact com.soyoung:library-evaluation:aar:0.0.1 from/to remote" />
@@ -52,12 +53,11 @@
       <item value="Returns the visibility of this view and all of its ancestors" />
       <item value="is skip" />
       <item value="gender" />
-      <item value="* CardView adds additional padding to draw shadows on platforms before Lollipop. * &lt;p&gt; * This may cause Cards to have different sizes between Lollipop and before Lollipop. If you * need to align CardView with other Views, you may need api version specific dimension * resources to account for the changes. * As an alternative, you can set this flag to &lt;code&gt;true&lt;/code&gt; and CardView will add the same * padding values on platforms Lollipop and after. * &lt;p&gt; * Since setting this flag to true adds unnecessary gaps in the UI, default value is * &lt;code&gt;false&lt;/code&gt;. * * @param useCompatPadding &lt;code&gt;true&gt;&lt;/code&gt; if CardView should add padding for the shadows on * platforms Lollipop and above. * @attr ref androidx.cardview.R.styleable#CardView_cardUseCompatPadding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
