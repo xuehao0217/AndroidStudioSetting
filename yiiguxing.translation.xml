@@ -3,8 +3,8 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
-      <item value="奖品" />
       <item value="额外&#10;" />
+      <item value="奖品" />
       <item value="Could not determine the dependencies of task ':library_evaluation:compileReleaseAidl'. &gt; Could not resolve all task dependencies for configuration ':library_evaluation:releaseCompileClasspath'. &gt; Could not resolve com.soyoung:library-util:{strictly 1.0.2}. Required by: project :library_evaluation &gt; Cannot find a version of 'com.soyoung:library-util' that satisfies the version constraints: Dependency path 'library:library_evaluation:unspecified' --&gt; 'com.soyoung.library:common_network:0.1.6' --&gt; 'com.soyoung:library-util:1.2.6-SNAPSHOT' Constraint path 'library:library_evaluation:unspecified' --&gt; 'com.soyoung:library-util:{strictly 1.0.2}' because of the following reason: releaseRuntimeClasspath uses version 1.0.2" />
       <item value="strictly" />
       <item value="Execution failed for task ':library_evaluation:uploadArchives'. &gt; Could not publish configuration 'archives' &gt; Could not deploy to remote repository | Failed to deploy artifacts: Could not transfer artifact com.soyoung:library-evaluation:aar:0.0.1 fromto remote (http:maven.sy.soyoung.comrepositoryandroid): Failed to transfer file: http:maven.sy.soyoung.comrepositoryandroidcomsoyounglibrary-evaluation0.0.1library-evaluation-0.0.1.aar. Return code is: 401, ReasonPhrase: Unauthorized." />
