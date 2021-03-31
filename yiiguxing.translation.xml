@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-608" />
     <histories>
       <item value="Could not determine the dependencies of task ':library_evaluation:compileReleaseAidl'. &gt; Could not resolve all task dependencies for configuration ':library_evaluation:releaseCompileClasspath'. &gt; Could not resolve com.soyoung:library-util:{strictly 1.0.2}. Required by: project :library_evaluation &gt; Cannot find a version of 'com.soyoung:library-util' that satisfies the version constraints: Dependency path 'library:library_evaluation:unspecified' --&gt; 'com.soyoung.library:common_network:0.1.6' --&gt; 'com.soyoung:library-util:1.2.6-SNAPSHOT' Constraint path 'library:library_evaluation:unspecified' --&gt; 'com.soyoung:library-util:{strictly 1.0.2}' because of the following reason: releaseRuntimeClasspath uses version 1.0.2" />
+      <item value="strictly" />
       <item value="Execution failed for task ':library_evaluation:uploadArchives'. &gt; Could not publish configuration 'archives' &gt; Could not deploy to remote repository | Failed to deploy artifacts: Could not transfer artifact com.soyoung:library-evaluation:aar:0.0.1 fromto remote (http:maven.sy.soyoung.comrepositoryandroid): Failed to transfer file: http:maven.sy.soyoung.comrepositoryandroidcomsoyounglibrary-evaluation0.0.1library-evaluation-0.0.1.aar. Return code is: 401, ReasonPhrase: Unauthorized." />
       <item value="评价&#10;" />
       <item value="评价" />
@@ -52,12 +53,11 @@
       <item value="* Returns the value of the property for the given object. * @param thisRef the object for which the value is requested. * @param property the metadata for the property. * @return the property value." />
       <item value="* Called when the hidden state (as returned by {@link #isHidden()} of * the fragment has changed. Fragments start out not hidden; this will * be called whenever the fragment changes state from that. * @param hidden True if the fragment is now hidden, false otherwise. */" />
       <item value="Returns the visibility of this view and all of its ancestors" />
-      <item value="is skip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
