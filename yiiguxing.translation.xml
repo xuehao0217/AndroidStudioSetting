@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="Adds a LifecycleObserver that will be notified when the LifecycleOwner changes state. &lt;p&gt; The given observer will be brought to the current state of the LifecycleOwner. For example, if the LifecycleOwner is in {@link StateSTARTED} state, the given observer will receive {@link EventON_CREATE}, {@link EventON_START} events. @param observer The observer to notify." />
       <item value="invalid parameter type. Must be one and instanceof LifecycleOwner" />
       <item value="The default [CoroutineDispatcher] that is used by all standard builders like [launch][CoroutineScope.launch], [async][CoroutineScope.async], etc if no dispatcher nor any other [ContinuationInterceptor] is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in parallel." />
       <item value="on" />
@@ -52,12 +53,11 @@
       <item value="activity" />
       <item value="活动" />
       <item value="discount" />
-      <item value="The name of this callable as it was declared in the source code. * If the callable has no name, a special invented name is created. * Nameless callables include: * - constructors have the name &quot;&lt;init&gt;&quot;, * - property accessors: the getter for a property named &quot;foo&quot; will have the name &quot;&lt;get-foo&gt;&quot;, * the setter, similarly, will have the name &quot;&lt;set-foo&gt;&quot;. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
