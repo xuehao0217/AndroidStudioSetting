@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="not associated with a fragment manager." />
+      <item value="not associated with a fragment manager" />
       <item value="刷新" />
       <item value="sh" />
       <item value="通知" />
@@ -51,19 +53,17 @@
       <item value="Retrieve any offsets for the given item. Each field of &lt;code&gt;outRect&lt;/code&gt; specifies * the number of pixels that the item view should be inset by, similar to padding or margin. * The default implementation sets the bounds of outRect to 0 and returns." />
       <item value="Retrieve any offsets for the given item. Each field of &lt;code&gt;outRect&lt;/code&gt; specifies * the number of pixels that the item view should be inset by, similar to padding or margin. * The default implementation sets the bounds of outRect to 0 and returns. * * &lt;p&gt; * If this ItemDecoration does not affect the positioning of item views, it should set * all four fields of &lt;code&gt;outRect&lt;/code&gt; (left, top, right, bottom) to zero * before returning. * * &lt;p&gt; * If you need to access Adapter for additional data, you can call * {@link RecyclerView#getChildAdapterPosition(View)} to get the adapter position of the * View. * * @param outRect Rect to receive the output. * @param view The child view to decorate * @param parent RecyclerView this ItemDecoration is decorating * @param state The current state of RecyclerView." />
       <item value="NOTIFY ON SCROLL STATE IDLE" />
-      <item value="reverse Layout" />
-      <item value="* Returns the adapter position of the first fully visible view. This position does not include * adapter changes that were dispatched after the last layout pass. * &lt;p&gt; * Note that bounds check is only performed in the current orientation. That means, if * LayoutManager is horizontal, it will only check the view's left and right edges. * * @return The adapter position of the first fully visible item or * {@link RecyclerView#NO_POSITION} if there aren't any visible items. * @see #findFirstVisibleItemPosition() * @see #findLastCompletelyVisibleItemPosition()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617787609714" />
+    <option name="lastTrimTime" value="1618281121801" />
   </component>
 </application>
