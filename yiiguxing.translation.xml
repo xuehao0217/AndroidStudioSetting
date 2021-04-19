@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="current" />
+      <item value="体现" />
       <item value="旋转&#10;&#10;" />
       <item value="旋转&#10;" />
       <item value="钱" />
@@ -51,8 +53,6 @@
       <item value="Duplicate class com.chad.library.BuildConfig found in modules jetified-BaseRecyclerViewAdapterHelper-3.0.2-runtime.jar (com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.2) and jetified-base_adapter-1.0.0-runtime.jar (com.soyoung:base_adapter:1.0.0)" />
       <item value="No version of NDK matched the requested version 20.0.5594570. Versions available locally: 23.0.7196353-rc2, 23.0.7196353-rc2" />
       <item value="PI" />
-      <item value="PING" />
-      <item value="占位&#10;" />
     </histories>
     <option name="languageScores">
       <map>
