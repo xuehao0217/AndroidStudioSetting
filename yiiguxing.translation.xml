@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="All children of ConstraintLayout must have ids to use ConstraintSet" />
+      <item value="arrow" />
       <item value="跑马灯&#10;" />
       <item value="llm.get Item Count()" />
       <item value="BaseVisibilityFragment is defined multiple times" />
@@ -51,13 +53,11 @@
       <item value="Base interface that can be used for implementing property delegates of read-write properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. @param T the type of object which owns the delegated property. @param V the type of the property value." />
       <item value="额外&#10;" />
       <item value="奖品" />
-      <item value="Could not determine the dependencies of task ':library_evaluation:compileReleaseAidl'. &gt; Could not resolve all task dependencies for configuration ':library_evaluation:releaseCompileClasspath'. &gt; Could not resolve com.soyoung:library-util:{strictly 1.0.2}. Required by: project :library_evaluation &gt; Cannot find a version of 'com.soyoung:library-util' that satisfies the version constraints: Dependency path 'library:library_evaluation:unspecified' --&gt; 'com.soyoung.library:common_network:0.1.6' --&gt; 'com.soyoung:library-util:1.2.6-SNAPSHOT' Constraint path 'library:library_evaluation:unspecified' --&gt; 'com.soyoung:library-util:{strictly 1.0.2}' because of the following reason: releaseRuntimeClasspath uses version 1.0.2" />
-      <item value="strictly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
