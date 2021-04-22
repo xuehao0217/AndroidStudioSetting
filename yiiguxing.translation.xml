@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="Lazy get a viewModel instance @param qualifier - Koin BeanDefinition qualifier (if have several ViewModel beanDefinition of the same type) @param parameters - parameters to pass to the BeanDefinition @param clazz" />
       <item value="Koin BeanDefinition qualifier (if have several ViewModel beanDefinition of the same type)" />
       <item value="Could not identify launch activity: Default Activity not found Error while Launching activity" />
       <item value="ould not identify launch activity: Default Activity not found Error while Launching activity" />
@@ -52,12 +53,11 @@
       <item value="Adds a LifecycleObserver that will be notified when the LifecycleOwner changes state. &lt;p&gt; The given observer will be brought to the current state of the LifecycleOwner. For example, if the LifecycleOwner is in {@link StateSTARTED} state, the given observer will receive {@link EventON_CREATE}, {@link EventON_START} events. @param observer The observer to notify." />
       <item value="The default [CoroutineDispatcher] that is used by all standard builders like [launch][CoroutineScope.launch], [async][CoroutineScope.async], etc if no dispatcher nor any other [ContinuationInterceptor] is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in parallel." />
       <item value="on" />
-      <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option Adding support for Java 8 language features could solve this issue." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
