@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="How to modify the base adapter class to use view binding, you need the following steps: 1. Adds a generic of view binding to the base class. 2. Uses a class of view holder with binding instead of the class of original view holder. 3. Overrides the method of creating view holder and returns the view holder by the [inflateBindingWithGeneric] method. 4. It is recommended to override the method for binding view holder so that it is simpler to use. Here is the core code. If you use `BaseRecyclerViewAdapterHelper`, you can copy this file directly to use." />
       <item value="Execution failed for task ':module_doc:kaptDebugKotlin'. &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution &gt; java.lang.reflect.InvocationTargetException (no error message)" />
       <item value="Duplicate class com.example.library_evaluation.BuildConfig found in modules jetified-library_evaluation-1.0.8.6-runtime.jar (com.soyoung:library_evaluation:1.0.8.6) and jetified-library_evaluation-debug-runtime.jar (library_evaluation-debug.aar)" />
       <item value="lazy" />
@@ -52,12 +53,11 @@
       <item value="刷新" />
       <item value="sh" />
       <item value="通知" />
-      <item value="tongzhi " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
