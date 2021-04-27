@@ -1,5 +1,0 @@
-<application>
-  <component name="PinDeviceService">
-    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.144.25:5555&quot;,&quot;serialNumber&quot;:&quot;66J5T18B02008570&quot;,&quot;name&quot;:&quot;HUAWEI HMA-AL00&quot;,&quot;address&quot;:&quot;192.168.144.25&quot;,&quot;androidVersion&quot;:&quot;10&quot;,&quot;apiLevel&quot;:&quot;29&quot;}]" />
-  </component>
-</application>
