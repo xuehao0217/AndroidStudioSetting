@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="Unable to start activity ComponentInfo{com.example.myapplicationcom.soyoung.myapplication.MainActivity}: android.view.InflateException: Binary XML file line 21 i" />
       <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 6.0. Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="UsersxuehaoAndroidStudioProjectsworkandroid_platformbuildSrcsrcmainresourcesMETA-INF: Too many open files" />
@@ -52,12 +53,11 @@
       <item value="Could not identify launch activity: Default Activity not found Error while Launching activity" />
       <item value="ould not identify launch activity: Default Activity not found Error while Launching activity" />
       <item value="A problem occurred evaluating project ':common_core'. &gt; No signature of method: build_3ijqzl6et5qiklygwvkgmfdx2.android() is applicable for argument types: (build_3ijqzl6et5qiklygwvkgmfdx2_run_closure1) values: [build_3ijqzl6et5qiklygwvkgmfdx2_run_closure1@4abd5372]" />
-      <item value="All children of ConstraintLayout must have ids to use ConstraintSet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
