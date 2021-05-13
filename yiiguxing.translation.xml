@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="Equivalent to {@link convert(long, TimeUnit) MILLISECONDS.convert(duration, this)}. @param duration the duration @return the converted duration, or {@code Long.MIN_VALUE} if conversion would negatively overflow, or {@code Long.MAX_VALUE} if it would positively overflow." />
       <item value="Maintains fixed delay between produced elements if consumer cannot keep up or it otherwise slow." />
       <item value="A `Job` instance in the [coroutineContext](https:kotlinlang.orgapilatestjvmstdlibkotlin.coroutinescoroutine-context.html) represents the coroutine itself. Cancellation cause A coroutine job is said to _complete exceptionally_ when its body throws an exception; a [CompletableJob] is completed exceptionally by calling [CompletableJob.completeExceptionally]. An exceptionally completed job is cancelled and the corresponding exception becomes the _cancellation cause_ of the job. Normal cancellation of a job is distinguished from its failure by the type of this exception that caused its cancellation. A coroutine that threw [CancellationException] is considered to be _cancelled normally_. If a cancellation cause is a different exception type, then the job is considered to have _failed_. When a job has _failed_, then its parent gets cancelled with the exception of the same type, thus ensuring transparency in delegating parts of the job to its children. Note, that [cancel] function on a job only accepts [CancellationException] as a cancellation cause, thus calling [cancel] always results in a normal cancellation of a job, which does not lead to cancellation of its parent. This way, a parent can [cancel] its own children (cancelling all their children recursively, too) without cancelling itself. Concurrency and synchronization All functions on this interface and on all interfaces derived from it are thread-safe and can be safely invoked from concurrent coroutines without external synchronization. Not stable for inheritance `Job` interface and all its derived interfaces are not stable for inheritance in 3rd party libraries, as new methods might be added to this interface in the future, but is stable for use." />
       <item value="Cannot access 'kotlin.coroutines.CoroutineContext' which is a supertype of 'kotlinx.coroutines.Job'. Check your module classpath for missing or conflicting dependencies&#10;Cannot access 'kotlin.coroutines.CoroutineContext.Element' which is a supertype of 'kotlinx.coroutines.Job'. Check your module classpath for missing or conflicting dependencies&#10;Suspend function 'cancelAndJoin' should be called only from a coroutine or another suspend function" />
@@ -52,7 +53,6 @@
       <item value="sweep" />
       <item value="runnable Time Up" />
       <item value="evaluate JS Segment" />
-      <item value="is Assignable From" />
     </histories>
     <option name="languageScores">
       <map>
