@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="bbsmodule_home: push dev_825 to origindev_825 was rejected by remote" />
       <item value="Fatal signal 11 (SIGSEGV), code -6 (SI_TKILL) in tid 15752 (RenderThread), pid 15520 (iang.soyoungapp)" />
       <item value="beginning of crash" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter v" />
@@ -52,7 +53,6 @@
       <item value="Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'. &gt; Could not resolve all task dependencies for configuration ':app:debugCompileClasspath'. &gt; Could not find androidx.exifinterface:exifinterface:1.2.0. Required by: project :app &gt; com.github.bumptech.glide:glide:4.12.0" />
       <item value="The following project options are deprecated and have been removed:" />
       <item value="removed" />
-      <item value="&gt; Configure project :module_zxing WARNING: The following project options are deprecated and have been removed: android.useDexArchive This property has no effect, incremental dexing is always used." />
     </histories>
     <option name="languageScores">
       <map>
