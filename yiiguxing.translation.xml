@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="最终" />
+      <item value="最终&#10;、" />
       <item value="com.networking.error.ANError: java.net.ProtocolException: Unexpected status line: 7ce8" />
       <item value="Duplicate resources" />
       <item value="com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 60917 path .live_video.list[1].img" />
@@ -51,8 +53,6 @@
       <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently." />
       <item value="A problem occurred evaluating project ':component_data'. &gt; Cannot convert a null value to an object of type Dependency. The following typesformats are supported: - Instances of Dependency. - String or CharSequence values, for example 'org.gradle:gradle-core:1.0'. - Maps, for example [group: 'org.gradle', name: 'gradle-core', version: '1.0']. - FileCollections, for example files('some.jar', 'someOther.jar'). - Projects, for example project(':some:project:path'). - ClassPathNotation, for example gradleApi()." />
       <item value="Could not determine the dependencies of task ':library_evaluation:compileReleaseAidl'. &gt; Could not resolve all task dependencies for configuration ':library_evaluation:releaseCompileClasspath'. &gt; Could not find androidx.exifinterface:exifinterface:1.2.0. Searched in the following locations:" />
-      <item value="A problem occurred evaluating project ':app'. &gt; Project with path ':library_evaluation' could not be found in project ':app'." />
-      <item value="Could not find androidx.exifinterface:exifinterface:1.2.0. Required by: project :app &gt; com.github.bumptech.glide:glide:4.12.0" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621233023245" />
+    <option name="lastTrimTime" value="1621919520425" />
   </component>
 </application>
