@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="新闻&#10;" />
+      <item value="xin" />
       <item value="混淆&#10;" />
       <item value="datauser_de0com.android.permissioncontrollerfilesdelayed_restore_permissions.xml: open failed: ENOENT (No such file or directory)" />
       <item value="最终" />
@@ -51,8 +53,6 @@
       <item value="p" />
       <item value="isActive is resolved into the extension of outer CoroutineScope which is likely to be an error.&quot; + &quot;Use currentCoroutineContext().isActive or cancellable() operator instead &quot; + &quot;or specify the receiver of isActive explicitly. &quot; + &quot;Additionally, flow {} builder emissions are cancellable by default." />
       <item value="@Deprecated( message = &quot;isActive is resolved into the extension of outer CoroutineScope which is likely to be an error.&quot; + &quot;Use currentCoroutineContext().isActive or cancellable() operator instead &quot; + &quot;or specify the receiver of isActive explicitly. &quot; + &quot;Additionally, flow {} builder emissions are cancellable by default.&quot;, level = DeprecationLevel.ERROR, replaceWith = ReplaceWith(&quot;currentCoroutineContext().isActive&quot;)" />
-      <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]. This interface should usually not be implemented directly, but rather used as a receiver in a [flow] builder when implementing a custom operator. Implementations of this interface are not thread-safe." />
-      <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently." />
     </histories>
     <option name="languageScores">
       <map>
