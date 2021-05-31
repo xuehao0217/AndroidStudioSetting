@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="650" />
     <option name="newTranslationDialogY" value="-608" />
     <histories>
+      <item value="产品&#10;" />
       <item value="精选&#10;" />
       <item value="案例&#10;" />
       <item value="Unable to start activity ComponentInfo" />
@@ -52,7 +53,6 @@
       <item value="方案&#10;" />
       <item value="fang" />
       <item value="Equivalent to {@link convert(long, TimeUnit) MILLISECONDS.convert(duration, this)}. @param duration the duration @return the converted duration, or {@code Long.MIN_VALUE} if conversion would negatively overflow, or {@code Long.MAX_VALUE} if it would positively overflow." />
-      <item value="Maintains fixed delay between produced elements if consumer cannot keep up or it otherwise slow." />
     </histories>
     <option name="languageScores">
       <map>
