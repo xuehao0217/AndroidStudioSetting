@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="650" />
-    <option name="newTranslationDialogY" value="-608" />
+    <option name="newTranslationDialogX" value="432" />
+    <option name="newTranslationDialogY" value="-611" />
     <histories>
       <item value="Returns a view of the portion of this list between the specified [fromIndex] (inclusive) and [toIndex] (exclusive). The returned list is backed by this list, so non-structural changes in the returned list are reflected in this list, and vice-versa. Structural changes in the base list make the behavior of the view undefined." />
       <item value="服务机构&#10;" />
