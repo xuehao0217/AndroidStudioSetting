@@ -4,6 +4,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_consecutive.xml" value="0.1899696048632219" />
         <entry key="middle/module_brand/src/main/res/layout/activity_brand_star_product.xml" value="0.1899696048632219" />
+        <entry key="middle/module_brand/src/main/res/layout/fragment_brand_news_layout.xml" value="0.1" />
       </map>
     </option>
   </component>
