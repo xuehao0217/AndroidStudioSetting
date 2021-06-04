@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="The following project options are deprecated and have been removed:" />
       <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObjectCustomMessageMissingMethodException: Could not find method singleRun() for arguments [component_cesa8s0o2fwfnqx6lqhn89qhq_run_closure1@39b81f77] on settings 'android_platform' of type org.gradle.initialization.DefaultSettings." />
       <item value="A problem occurred evaluating settings 'android_platform'. &gt; Plugin with id 'com.xiaozhu.setting' not found." />
       <item value="Unable to load class 'javax.xml.bind.JAXBException'. This is an unexpected error. Please file a bug containing the idea.log file." />
@@ -52,7 +53,6 @@
       <item value="scale" />
       <item value="Unable to parse composition" />
       <item value="new user area product head" />
-      <item value="product detail" />
     </histories>
     <option name="languageScores">
       <map>
