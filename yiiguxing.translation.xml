@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="xcrun: error: unable to find utility &quot;xcodebuild&quot;, not a developer tool or in PATH Command: xcrun xcodebuild -list -project Runner.xcodeproj" />
       <item value="Exception: No macOS desktop project configured. See https:flutter.devdesktopadd-desktop-support-to-an-existing-flutter-app to learn about adding macOS support to a project." />
       <item value="智能裁剪&#10;" />
       <item value="智能&#10;裁剪&#10;" />
@@ -52,7 +53,6 @@
       <item value="EVENT DIALOG SHOW CHANGED" />
       <item value="搜索&#10;" />
       <item value="helper.getAdapterPosition() == 0 &amp;&amp; isSetData &amp;&amp; item.title.contains(&quot;新氧魔镜&quot;)" />
-      <item value="需要" />
     </histories>
     <option name="languageScores">
       <map>
