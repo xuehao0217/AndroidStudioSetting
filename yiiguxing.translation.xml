@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="智能裁剪&#10;" />
+      <item value="智能&#10;裁剪&#10;" />
+      <item value="zhi'neng裁剪&#10;" />
+      <item value="zu裁剪&#10;" />
+      <item value="裁剪&#10;" />
+      <item value="cai'jian" />
       <item value="IOneKeyLoginCallBack.RESULT_FAIL == code" />
       <item value="The following project options are deprecated and have been removed:" />
       <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObjectCustomMessageMissingMethodException: Could not find method singleRun() for arguments [component_cesa8s0o2fwfnqx6lqhn89qhq_run_closure1@39b81f77] on settings 'android_platform' of type org.gradle.initialization.DefaultSettings." />
@@ -47,12 +53,6 @@
       <item value="helper.getAdapterPosition() == 0 &amp;&amp; isSetData &amp;&amp; item.title.contains(&quot;新氧魔镜&quot;)" />
       <item value="需要" />
       <item value="read diary calendar 2" />
-      <item value="calendar nursing detail" />
-      <item value="calendar create comfire" />
-      <item value="activity video diagnose project list" />
-      <item value="diary pics" />
-      <item value="scale" />
-      <item value="Unable to parse composition" />
     </histories>
     <option name="languageScores">
       <map>
