@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Infinity" />
       <item value="Moved to extension function. Put the 'file' argument first to fix Java" />
       <item value="Execution failed for task ':app:mergeDebugResources'. &gt; This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled. Set this property to true in the gradle.properties file and retry. The following AndroidX dependencies are detected: androidx.core:core-ktx:0.3" />
       <item value="Execution failed for task ':app:stripDebugDebugSymbols'. &gt; No toolchains found in the NDK toolchains folder for ABI with prefix: arm-linux-androideabi" />
@@ -52,7 +53,6 @@
       <item value="com.networking.error.ANError: java.net.UnknownHostException: Unable to resolve host &quot;api66.sy.soyoung.com&quot;: No address associated with hostname" />
       <item value="empty String" />
       <item value="deviceData.getInstallData(&quot;new_index_user_tool&quot;, NewUserIndexTool::class.java)" />
-      <item value="get Install Data" />
     </histories>
     <option name="languageScores">
       <map>
