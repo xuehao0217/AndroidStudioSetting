@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-611" />
     <histories>
       <item value="Infinity" />
+      <item value="to append, false otherwise." />
       <item value="Moved to extension function. Put the 'file' argument first to fix Java" />
       <item value="Execution failed for task ':app:mergeDebugResources'. &gt; This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled. Set this property to true in the gradle.properties file and retry. The following AndroidX dependencies are detected: androidx.core:core-ktx:0.3" />
       <item value="Execution failed for task ':app:stripDebugDebugSymbols'. &gt; No toolchains found in the NDK toolchains folder for ABI with prefix: arm-linux-androideabi" />
@@ -52,7 +53,6 @@
       <item value="on Shown" />
       <item value="com.networking.error.ANError: java.net.UnknownHostException: Unable to resolve host &quot;api66.sy.soyoung.com&quot;: No address associated with hostname" />
       <item value="empty String" />
-      <item value="deviceData.getInstallData(&quot;new_index_user_tool&quot;, NewUserIndexTool::class.java)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623051476822" />
+    <option name="lastTrimTime" value="1623745075635" />
   </component>
 </application>
