@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Cannot resolve method 'showOneButtonDialog(com.soyoung.vipcard.fragment.BlackCardFragment, java.lang.String, java.lang.String, &lt;lambda expression&gt;, boolean)'" />
       <item value="Infinity" />
       <item value="to append, false otherwise." />
       <item value="Moved to extension function. Put the 'file' argument first to fix Java" />
@@ -52,7 +53,6 @@
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter v" />
       <item value="on Shown" />
       <item value="com.networking.error.ANError: java.net.UnknownHostException: Unable to resolve host &quot;api66.sy.soyoung.com&quot;: No address associated with hostname" />
-      <item value="empty String" />
     </histories>
     <option name="languageScores">
       <map>
