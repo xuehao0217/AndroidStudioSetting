@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="File Uri Exposed Exception" />
       <item value="ecurityException: Permission Denial: starting Intent" />
       <item value="Executes an {@link ActivityResultContract}. @param input the input required to execute an {@link ActivityResultContract}." />
       <item value="SLIDE" />
@@ -52,7 +53,6 @@
       <item value="最终&#10;、" />
       <item value="com.networking.error.ANError: java.net.ProtocolException: Unexpected status line: 7ce8" />
       <item value="Duplicate resources" />
-      <item value="com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 60917 path .live_video.list[1].img" />
     </histories>
     <option name="languageScores">
       <map>
