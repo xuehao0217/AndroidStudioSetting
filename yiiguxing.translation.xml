@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="ACTION PULL" />
+      <item value=".AndroidSoftwareComponentCompat_Gradle_5_3.&lt;init&gt;(AndroidSoftwareComponentCompat_Gradle_5_3.groovy:33) at com.novoda.release.internal.compat.gradle5_3.AndroidSoftwareComponentCompat_Gradle_5_3_Decorated.&lt;init&gt;(Unknown Source) at org.gradle.internal.instantiation.generator.AsmBackedClassGeneratorInvokeConstructorStrategy.newInstance(AsmBackedClassGenerator.java:1969) at org.gradle.internal.instantiation.generator.AbstractClassGeneratorGeneratedClassImplGeneratedConstructorImpl.newInstance(AbstractClassGenerator.java:468) at org.gradle.internal.instantiation.generator.DependencyInjectingInstantiator.doCreate(DependencyInjectingInstantiator.java:64) ... 218 more Caused by: java.lang.ClassNotFoundException: org.gradle.api.internal.java.usagecontext.LazyConfigurationUsageContext ... 224 more" />
       <item value="下载" />
       <item value="Cannot resolve method 'showOneButtonDialog(com.soyoung.vipcard.fragment.BlackCardFragment, java.lang.String, java.lang.String, &lt;lambda expression&gt;, boolean)'" />
       <item value="Infinity" />
@@ -51,8 +53,6 @@
       <item value="bbsmodule_home: push dev_825 to origindev_825 was rejected by remote" />
       <item value="Fatal signal 11 (SIGSEGV), code -6 (SI_TKILL) in tid 15752 (RenderThread), pid 15520 (iang.soyoungapp)" />
       <item value="beginning of crash" />
-      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter v" />
-      <item value="on Shown" />
     </histories>
     <option name="languageScores">
       <map>
