@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="An {@link ActivityResultContract} to {@link MediaStoreACTION_IMAGE_CAPTURE take small a picture} preview, returning it as a {@link Bitmap}. &lt;p&gt; This can be extended to override {@link createIntent} if you wish to pass additional extras to the Intent created by {@code super.createIntent()}." />
       <item value="No" />
       <item value="N" />
       <item value="n" />
@@ -52,7 +53,6 @@
       <item value="include Edge" />
       <item value="Staggered" />
       <item value="产品" />
-      <item value="明星产品" />
     </histories>
     <option name="languageScores">
       <map>
