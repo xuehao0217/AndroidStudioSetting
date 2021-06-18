@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="exposed beyond app through Intent.getData()" />
+      <item value="RuntimeException: Failure delivering result ResultInfo{who=null, request=65556, result=-1, data=Intent { act=inline-data (has extras) }} to activity {com.xueh.commonlibcom.xueh.commonlib.ui.MainActivity}: android.os.FileUriExposedException: file:storageemulated0Androiddatacom.xueh.commonlibcacheimg.PNG exposed beyond app through Intent.getData()" />
+      <item value="Failure delivering result ResultInfo{who=null, request=65556, result=-1, data=Intent { act=inline-data (has extras) }} to activity {com.xueh.commonlibcom.xueh.commonlib.ui.MainActivity}: android.os.FileUriExposedException: file:storageemulated0Androiddatacom.xueh.commonlibcacheimg.PNG exposed beyond app through Intent.getData()" />
       <item value="An {@link ActivityResultContract} to {@link MediaStoreACTION_IMAGE_CAPTURE take small a picture} preview, returning it as a {@link Bitmap}. &lt;p&gt; This can be extended to override {@link createIntent} if you wish to pass additional extras to the Intent created by {@code super.createIntent()}." />
       <item value="No" />
       <item value="N" />
@@ -50,9 +53,6 @@
       <item value="精选&#10;" />
       <item value="案例&#10;" />
       <item value="Unable to start activity ComponentInfo" />
-      <item value="include Edge" />
-      <item value="Staggered" />
-      <item value="产品" />
     </histories>
     <option name="languageScores">
       <map>
