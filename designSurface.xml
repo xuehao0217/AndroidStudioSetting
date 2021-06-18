@@ -45,7 +45,9 @@
         <entry key="platform/module_usercenter/src/main/res/layout/fragment_mine_logged_in_v813.xml" value="0.17391304347826086" />
         <entry key="platform/module_usercenter/src/main/res/layout/fragment_mine_unlogin_v813.xml" value="0.17391304347826086" />
         <entry key="platform/module_usercenter/src/main/res/layout/layout_loggedin_top_v813.xml" value="0.1899696048632219" />
+        <entry key="platform/module_usercenter/src/main/res/layout/layout_skeleton_mine.xml" value="0.1" />
         <entry key="platform/module_usercenter/src/main/res/layout/layout_unlogin_top_v813.xml" value="0.1899696048632219" />
+        <entry key="platform/module_usercenter/src/main/res/layout/post_bottom_view.xml" value="0.264945652173913" />
         <entry key="sample/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="sample/src/main/res/menu/menu_interval.xml" value="0.1" />
       </map>
