@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Way" />
+      <item value="Album(" />
+      <item value="take Way By Album" />
       <item value="Atomically increments by one the current value. @return the previous value" />
       <item value="图库&#10;" />
       <item value="图例" />
@@ -50,9 +53,6 @@
       <item value="Unable to load class 'javax.xml.bind.JAXBException'. This is an unexpected error. Please file a bug containing the idea.log file." />
       <item value="统计&#10;" />
       <item value="Execution failed for task ':commonlist:compileDebugJavaWithJavac'. &gt; javaxxmlbindJAXBException Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
-      <item value="Returns a view of the portion of this list between the specified [fromIndex] (inclusive) and [toIndex] (exclusive). The returned list is backed by this list, so non-structural changes in the returned list are reflected in this list, and vice-versa. Structural changes in the base list make the behavior of the view undefined." />
-      <item value="服务机构&#10;" />
-      <item value="产品&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623745075635" />
+    <option name="lastTrimTime" value="1624242345218" />
   </component>
 </application>
