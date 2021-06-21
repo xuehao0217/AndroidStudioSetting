@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Method 'replaceFirst' cannot be called on 'String?' because it is potentially null." />
       <item value="Way" />
       <item value="Album(" />
       <item value="take Way By Album" />
@@ -52,7 +53,6 @@
       <item value="A problem occurred evaluating settings 'android_platform'. &gt; Plugin with id 'com.xiaozhu.setting' not found." />
       <item value="Unable to load class 'javax.xml.bind.JAXBException'. This is an unexpected error. Please file a bug containing the idea.log file." />
       <item value="统计&#10;" />
-      <item value="Execution failed for task ':commonlist:compileDebugJavaWithJavac'. &gt; javaxxmlbindJAXBException Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
     </histories>
     <option name="languageScores">
       <map>
