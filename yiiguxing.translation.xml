@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="The argument type 'Null Function(dynamic)' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
+      <item value="The argument type 'Type' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
       <item value="finished with non-zero exit value 1" />
       <item value="Method 'replaceFirst' cannot be called on 'String?' because it is potentially null." />
       <item value="Way" />
@@ -51,8 +53,6 @@
       <item value="IOneKeyLoginCallBack.RESULT_FAIL == code" />
       <item value="The following project options are deprecated and have been removed:" />
       <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObjectCustomMessageMissingMethodException: Could not find method singleRun() for arguments [component_cesa8s0o2fwfnqx6lqhn89qhq_run_closure1@39b81f77] on settings 'android_platform' of type org.gradle.initialization.DefaultSettings." />
-      <item value="A problem occurred evaluating settings 'android_platform'. &gt; Plugin with id 'com.xiaozhu.setting' not found." />
-      <item value="Unable to load class 'javax.xml.bind.JAXBException'. This is an unexpected error. Please file a bug containing the idea.log file." />
     </histories>
     <option name="languageScores">
       <map>
