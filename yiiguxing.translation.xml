@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="A problem occurred evaluating settings 'My Application'. &gt; Could not find which method &lt;init&gt;() to invoke from this list: public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.Object) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.String, java.lang.Object, boolean) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.String, java.lang.Object) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.Object, boolean)" />
       <item value="The base class for all function types. The run-time type of a function object is subtype of a function type, and as such, a subtype of [Function]." />
       <item value="The argument type 'Null Function(dynamic)' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
       <item value="The argument type 'Type' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
@@ -52,7 +53,6 @@
       <item value="裁剪&#10;" />
       <item value="cai'jian" />
       <item value="IOneKeyLoginCallBack.RESULT_FAIL == code" />
-      <item value="The following project options are deprecated and have been removed:" />
     </histories>
     <option name="languageScores">
       <map>
