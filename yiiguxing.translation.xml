@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="The base class for all function types. The run-time type of a function object is subtype of a function type, and as such, a subtype of [Function]." />
       <item value="The argument type 'Null Function(dynamic)' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
       <item value="The argument type 'Type' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
       <item value="finished with non-zero exit value 1" />
@@ -52,7 +53,6 @@
       <item value="cai'jian" />
       <item value="IOneKeyLoginCallBack.RESULT_FAIL == code" />
       <item value="The following project options are deprecated and have been removed:" />
-      <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObjectCustomMessageMissingMethodException: Could not find method singleRun() for arguments [component_cesa8s0o2fwfnqx6lqhn89qhq_run_closure1@39b81f77] on settings 'android_platform' of type org.gradle.initialization.DefaultSettings." />
     </histories>
     <option name="languageScores">
       <map>
