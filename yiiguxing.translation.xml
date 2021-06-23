@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="推送" />
       <item value="清除" />
       <item value="qing'chu" />
       <item value="清楚" />
@@ -52,7 +53,6 @@
       <item value="Infinity" />
       <item value="to append, false otherwise." />
       <item value="Moved to extension function. Put the 'file' argument first to fix Java" />
-      <item value="Execution failed for task ':app:mergeDebugResources'. &gt; This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled. Set this property to true in the gradle.properties file and retry. The following AndroidX dependencies are detected: androidx.core:core-ktx:0.3" />
     </histories>
     <option name="languageScores">
       <map>
