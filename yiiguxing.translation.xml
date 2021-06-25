@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="PULL" />
+      <item value="DRAG" />
+      <item value="degree" />
       <item value="arguments must not be null" />
       <item value="] arguments must not be nul" />
       <item value="append" />
@@ -50,9 +53,6 @@
       <item value="File Uri Exposed Exception" />
       <item value="ecurityException: Permission Denial: starting Intent" />
       <item value="Executes an {@link ActivityResultContract}. @param input the input required to execute an {@link ActivityResultContract}." />
-      <item value="SLIDE" />
-      <item value="ACTION PULL" />
-      <item value=".AndroidSoftwareComponentCompat_Gradle_5_3.&lt;init&gt;(AndroidSoftwareComponentCompat_Gradle_5_3.groovy:33) at com.novoda.release.internal.compat.gradle5_3.AndroidSoftwareComponentCompat_Gradle_5_3_Decorated.&lt;init&gt;(Unknown Source) at org.gradle.internal.instantiation.generator.AsmBackedClassGeneratorInvokeConstructorStrategy.newInstance(AsmBackedClassGenerator.java:1969) at org.gradle.internal.instantiation.generator.AbstractClassGeneratorGeneratedClassImplGeneratedConstructorImpl.newInstance(AbstractClassGenerator.java:468) at org.gradle.internal.instantiation.generator.DependencyInjectingInstantiator.doCreate(DependencyInjectingInstantiator.java:64) ... 218 more Caused by: java.lang.ClassNotFoundException: org.gradle.api.internal.java.usagecontext.LazyConfigurationUsageContext ... 224 more" />
     </histories>
     <option name="languageScores">
       <map>
