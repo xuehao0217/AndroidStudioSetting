@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="失败&#10;" />
+      <item value="shi'bai'u" />
+      <item value="shiu" />
       <item value="PULL" />
       <item value="DRAG" />
       <item value="degree" />
@@ -50,9 +53,6 @@
       <item value="DSL element 'android.viewBinding.enabled' is obsolete and has been replaced with 'android.buildFeatures.viewBinding'. It will be removed in version 7.0 of the Android Gradle plugin." />
       <item value="Please remove usages of `jcenter()` Maven repository from your build scripts and migrate your build to other Maven repositories. This repository is deprecated and it will be shut down in the future." />
       <item value="String Index Out Of Bounds Exception" />
-      <item value="File Uri Exposed Exception" />
-      <item value="ecurityException: Permission Denial: starting Intent" />
-      <item value="Executes an {@link ActivityResultContract}. @param input the input required to execute an {@link ActivityResultContract}." />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624242345218" />
+    <option name="lastTrimTime" value="1624873918458" />
   </component>
 </application>
