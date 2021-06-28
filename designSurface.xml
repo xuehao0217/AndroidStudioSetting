@@ -25,6 +25,7 @@
         <entry key="app/src/main/res/layout/ui_status_layout_load_error.xml" value="0.32971014492753625" />
         <entry key="app/src/main/res/layout/ui_status_layout_network_error.xml" value="0.32971014492753625" />
         <entry key="app/src/main/res/layout/ui_status_layout_not_found.xml" value="0.32971014492753625" />
+        <entry key="app/src/main/res/layout/view_layout.xml" value="0.24139492753623187" />
         <entry key="app/src/main/res/layout/widget_ui_status_network_error_widget.xml" value="0.32971014492753625" />
         <entry key="base/arouter/src/main/res/layout/activity_second.xml" value="0.3007246376811594" />
         <entry key="bbs/module_home/src/main/res/drawable/shape_search_tag.xml" value="0.3148148148148148" />
