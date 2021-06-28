@@ -30,10 +30,11 @@
         <entry key="bbs/module_home/src/main/res/drawable/shape_search_tag.xml" value="0.3148148148148148" />
         <entry key="bbs/module_home/src/main/res/layout/fragment_v815_home.xml" value="0.1899696048632219" />
         <entry key="bbs/module_home/src/main/res/layout/fragment_v824_home.xml" value="0.1899696048632219" />
+        <entry key="bbs/module_home/src/main/res/layout/item_home_pay_layout.xml" value="0.1" />
         <entry key="bbs/module_home/src/main/res/layout/layout_home_top.xml" value="0.3392210144927536" />
-        <entry key="bbs/module_home/src/main/res/layout/layout_v815_home_collapse.xml" value="0.1" />
+        <entry key="bbs/module_home/src/main/res/layout/layout_v815_home_collapse.xml" value="0.171875" />
         <entry key="bbs/module_home/src/main/res/layout/layout_v824_home_collapse.xml" value="0.1899696048632219" />
-        <entry key="bbs/module_home/src/main/res/layout/view_discount_pay_layout.xml" value="0.14749262536873156" />
+        <entry key="bbs/module_home/src/main/res/layout/view_discount_pay_layout.xml" value="0.1601123595505618" />
         <entry key="business/module_vip/src/main/res/layout/activity_black_card.xml" value="0.33242753623188404" />
         <entry key="business/module_vip/src/main/res/layout/adapter_black_card_butler_name.xml" value="0.271875" />
         <entry key="business/module_vip/src/main/res/layout/adapter_black_card_header.xml" value="0.5" />
@@ -46,6 +47,7 @@
         <entry key="business/module_vip/src/main/res/layout/fragment_black_card.xml" value="0.1899696048632219" />
         <entry key="business/module_vip/src/main/res/layout/fragment_black_card_product_list_base.xml" value="0.33242753623188404" />
         <entry key="doctor/module_doc/src/main/res/layout/doctor_activity_sign_in.xml" value="0.23015873015873015" />
+        <entry key="doctor/module_doc/src/main/res/layout/item_doc_activity_layout.xml" value="0.1" />
         <entry key="middle/module_brand/src/main/res/layout/activity_826_main.xml" value="0.1899696048632219" />
         <entry key="middle/module_brand/src/main/res/layout/activity_brand_news.xml" value="0.1899696048632219" />
         <entry key="middle/module_brand/src/main/res/layout/activity_brand_service_group.xml" value="0.28306159420289856" />
