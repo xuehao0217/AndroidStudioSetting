@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.13518518518518519" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/4128d94a5a7b75ed3237c9bc4c17865f/jetified-base_adapter-1.0.0/res/layout/brvah_quick_view_load_more.xml" value="0.28894927536231885" />
+        <entry key="../../../.gradle/caches/transforms-2/files-2.1/4808a821d5462319e4ffaa84db73f984/jetified-library_view_component-1.0.14/res/layout/component_input_dialog_common_view.xml" value="0.3029891304347826" />
         <entry key="app/src/main/res/layout/activity_consecutive.xml" value="0.1899696048632219" />
         <entry key="app/src/main/res/layout/activity_detail.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="1.0" />
@@ -29,6 +30,12 @@
         <entry key="app/src/main/res/layout/view_layout.xml" value="0.24139492753623187" />
         <entry key="app/src/main/res/layout/widget_ui_status_network_error_widget.xml" value="0.32971014492753625" />
         <entry key="base/arouter/src/main/res/layout/activity_second.xml" value="0.3007246376811594" />
+        <entry key="bbs/module_ask/src/main/res/layout/activity_answer_detail_new.xml" value="0.1" />
+        <entry key="bbs/module_ask/src/main/res/layout/activity_easy_publisher_new.xml" value="0.1" />
+        <entry key="bbs/module_ask/src/main/res/layout/activity_nation_answer_new.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_ask/src/main/res/layout/layout_custom_post_local_audio.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_ask/src/main/res/layout/layout_customans_post_video_img.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_ask/src/main/res/layout/layout_post_img.xml" value="0.3029891304347826" />
         <entry key="bbs/module_home/src/main/res/drawable/shape_search_tag.xml" value="0.3148148148148148" />
         <entry key="bbs/module_home/src/main/res/layout/fragment_v815_home.xml" value="0.1899696048632219" />
         <entry key="bbs/module_home/src/main/res/layout/fragment_v824_home.xml" value="0.1899696048632219" />
@@ -37,7 +44,33 @@
         <entry key="bbs/module_home/src/main/res/layout/layout_v815_home_collapse.xml" value="0.1601123595505618" />
         <entry key="bbs/module_home/src/main/res/layout/layout_v824_home_collapse.xml" value="0.1899696048632219" />
         <entry key="bbs/module_home/src/main/res/layout/view_discount_pay_layout.xml" value="0.1601123595505618" />
+        <entry key="bbs/module_post/src/main/res/layout/activity_add_collection.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_post/src/main/res/layout/activity_add_collection_tiny.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_post/src/main/res/layout/activity_complaints_post.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_post/src/main/res/layout/activity_officical_collection.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_post/src/main/res/layout/activity_proof.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_post/src/main/res/layout/change_time_collection.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_post/src/main/res/layout/dialog_vote.xml" value="0.3029891304347826" />
+        <entry key="bbs/module_post/src/main/res/layout/fragment_search_add_tag.xml" value="0.3029891304347826" />
+        <entry key="business/library_filter/src/main/res/layout/doctor_filter.xml" value="0.3029891304347826" />
         <entry key="business/library_filter/src/main/res/layout/item_filter_mix_input_price.xml" value="0.31431159420289856" />
+        <entry key="business/library_filter/src/main/res/layout/layout_filter_head.xml" value="0.3029891304347826" />
+        <entry key="business/module_acn/src/main/res/layout/acn_design_audio_item.xml" value="0.3029891304347826" />
+        <entry key="business/module_acn/src/main/res/layout/acn_layout_custom_post_audio.xml" value="0.3029891304347826" />
+        <entry key="business/module_acn/src/main/res/layout/acn_p_filter_other.xml" value="0.3029891304347826" />
+        <entry key="business/module_acn/src/main/res/layout/acn_recommend_user_item.xml" value="0.3029891304347826" />
+        <entry key="business/module_complaint/src/main/res/layout/complaint_assess_layout.xml" value="0.3029891304347826" />
+        <entry key="business/module_experience/src/p_order_details/main/res/layout/item_recommend_feedback_info_view.xml" value="0.3029891304347826" />
+        <entry key="business/module_experience/src/p_preferential_pay/main/res/layout/preferential_confirm_view_detail.xml" value="0.3029891304347826" />
+        <entry key="business/module_scheme/src/main/res/layout/dialog_scheme_get_price.xml" value="0.3029891304347826" />
+        <entry key="business/module_scheme/src/main/res/layout/dialog_submit_phone_num.xml" value="0.3029891304347826" />
+        <entry key="business/module_scheme/src/main/res/layout/scheme_activity_get_stage.xml" value="0.3029891304347826" />
+        <entry key="business/module_scheme/src/main/res/layout/scheme_view_method_filter.xml" value="0.3029891304347826" />
+        <entry key="business/module_video_diagnose/src/main/res/layout/diagnose_activity_agora_open_video.xml" value="0.3029891304347826" />
+        <entry key="business/module_video_diagnose/src/main/res/layout/diagnose_complaint.xml" value="0.3029891304347826" />
+        <entry key="business/module_video_diagnose/src/main/res/layout/diagnose_send_message.xml" value="0.1" />
+        <entry key="business/module_video_diagnose/src/main/res/layout/diagnose_widget_room_messages.xml" value="0.3029891304347826" />
+        <entry key="business/module_video_diagnose/src/main/res/layout/dialog_appeal_layout.xml" value="0.3029891304347826" />
         <entry key="business/module_vip/src/main/res/layout/activity_black_card.xml" value="0.33242753623188404" />
         <entry key="business/module_vip/src/main/res/layout/adapter_black_card_butler_name.xml" value="0.271875" />
         <entry key="business/module_vip/src/main/res/layout/adapter_black_card_header.xml" value="0.5" />
@@ -49,10 +82,25 @@
         <entry key="business/module_vip/src/main/res/layout/dialog_black_card_img_btn_9.xml" value="0.271875" />
         <entry key="business/module_vip/src/main/res/layout/fragment_black_card.xml" value="0.1899696048632219" />
         <entry key="business/module_vip/src/main/res/layout/fragment_black_card_product_list_base.xml" value="0.33242753623188404" />
+        <entry key="doctor/module_doc/src/main/res/layout/doc_dialog_reservation_layout.xml" value="0.3029891304347826" />
         <entry key="doctor/module_doc/src/main/res/layout/doctor_activity_sign_in.xml" value="0.23015873015873015" />
         <entry key="doctor/module_doc/src/main/res/layout/item_doc_activity_layout.xml" value="0.1" />
+        <entry key="doctor/module_workspace/src/main/res/layout/activity_search_hos.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/fragment_profress_step_three.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/item_bottom_authentication_practicing_view.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/item_doc_item_midder_view.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/layout_doctor_patent_item_body.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/workspace_act_adcf_doc_practice_activity.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/workspace_resume_kv_item_layout.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/workspace_resume_kv_two_date_layout.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/workspace_resume_multitext_layout.xml" value="0.3029891304347826" />
+        <entry key="doctor/module_workspace/src/main/res/layout/workspace_view_fill_information_aptitude.xml" value="0.3029891304347826" />
+        <entry key="hospital/module_hospital/src/main/res/layout/dialog_quote_submit_layout.xml" value="0.3029891304347826" />
+        <entry key="hospital/module_map/src/main/res/layout/activity_city_filter.xml" value="0.3029891304347826" />
         <entry key="middle/module_brand/src/main/res/layout/activity_826_main.xml" value="0.1899696048632219" />
         <entry key="middle/module_brand/src/main/res/layout/activity_brand_news.xml" value="0.1899696048632219" />
+        <entry key="middle/module_brand/src/main/res/layout/activity_brand_reg.xml" value="0.1" />
+        <entry key="middle/module_brand/src/main/res/layout/activity_brand_reg_top.xml" value="0.3029891304347826" />
         <entry key="middle/module_brand/src/main/res/layout/activity_brand_service_group.xml" value="0.28306159420289856" />
         <entry key="middle/module_brand/src/main/res/layout/activity_brand_star_product.xml" value="0.2871376811594203" />
         <entry key="middle/module_brand/src/main/res/layout/empty_brand_case_layout.xml" value="0.1899696048632219" />
@@ -60,10 +108,20 @@
         <entry key="middle/module_brand/src/main/res/layout/fragment_brand_news_layout.xml" value="0.4185185185185185" />
         <entry key="middle/module_brand/src/main/res/layout/item_brand_news_layout.xml" value="0.5" />
         <entry key="middle/module_brand/src/main/res/layout/item_star_product_layout.xml" value="0.33" />
+        <entry key="middle/module_brand/src/main/res/layout/layout_brand_bottom_view.xml" value="0.3029891304347826" />
         <entry key="middle/module_brand/src/main/res/layout/view_about_service_top_layout.xml" value="0.67" />
+        <entry key="middle/module_medical_check/src/main/res/layout/medical_activity_main.xml" value="0.3029891304347826" />
+        <entry key="middle/module_middle_api/src/main/res/layout/middle_dialog_scheme_get_price.xml" value="0.3029891304347826" />
+        <entry key="middle/module_middle_api/src/main/res/layout/middle_dialog_submit_phone_num.xml" value="0.3029891304347826" />
+        <entry key="platform/module_face/src/main/res/layout/activity_authentication.xml" value="0.3029891304347826" />
+        <entry key="platform/module_face/src/main/res/layout/activity_authorization_card.xml" value="0.3029891304347826" />
+        <entry key="platform/module_login/src/main/res/layout/widget_verification_code_input.xml" value="0.3029891304347826" />
         <entry key="platform/module_main/src/main/res/drawable/shape_search_guide_bg.xml" value="0.3148148148148148" />
         <entry key="platform/module_main/src/main/res/layout/activity_main.xml" value="0.1899696048632219" />
         <entry key="platform/module_main/src/main/res/layout/activity_teenager.xml" value="0.1" />
+        <entry key="platform/module_setting/src/main/res/layout/activity_smcode_verification.xml" value="0.3029891304347826" />
+        <entry key="platform/module_setting/src/main/res/layout/fragment_change_phone.xml" value="0.3029891304347826" />
+        <entry key="platform/module_setting/src/main/res/layout/fragment_update_phone.xml" value="0.3029891304347826" />
         <entry key="platform/module_usercenter/src/main/res/layout/fragment_mine_logged_in_v813.xml" value="0.17391304347826086" />
         <entry key="platform/module_usercenter/src/main/res/layout/fragment_mine_unlogin_v813.xml" value="0.17391304347826086" />
         <entry key="platform/module_usercenter/src/main/res/layout/layout_loggedin_top_v813.xml" value="0.1899696048632219" />
