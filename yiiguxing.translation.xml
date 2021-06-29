@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Execution failed for task ':library_evaluation:uploadArchives'. &gt; Could not publish configuration 'archives' &gt; Could not deploy to remote repository | Failed to deploy artifacts: Could not transfer artifact com.soyoung:library_evaluation:aar:1.1.15 fromto remote" />
       <item value="失败&#10;" />
       <item value="shi'bai'u" />
       <item value="shiu" />
@@ -52,7 +53,6 @@
       <item value="Execution failed for task ':app:processDebugMainManifest'. &gt; Manifest merger failed with multiple errors, see logs" />
       <item value="DSL element 'android.viewBinding.enabled' is obsolete and has been replaced with 'android.buildFeatures.viewBinding'. It will be removed in version 7.0 of the Android Gradle plugin." />
       <item value="Please remove usages of `jcenter()` Maven repository from your build scripts and migrate your build to other Maven repositories. This repository is deprecated and it will be shut down in the future." />
-      <item value="String Index Out Of Bounds Exception" />
     </histories>
     <option name="languageScores">
       <map>
