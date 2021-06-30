@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Log printer; defaults logPrint log to console. In flutter, you'd better use debugPrint. you can also write log in a file." />
       <item value="Print compact json response" />
       <item value="权限&#10;" />
       <item value="quan'xian" />
@@ -52,7 +53,6 @@
       <item value="No&#10;" />
       <item value="否" />
       <item value="dou" />
-      <item value="Get the {@link ActivityResultRegistry} associated with this activity. @return the {@link ActivityResultRegistry}" />
     </histories>
     <option name="languageScores">
       <map>
