@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Use a list literal, [], or the List.filled constructor instea" />
       <item value="Because dio_logger &gt;=4.0.0+6 depends on dio ^4.0.0 and flutter_common_lib depends on dio ^3.0.8, dio_logger &gt;=4.0.0+6 is forbidden. So, because flutter_common_lib depends on dio_logger ^4.0.8+8, version solving failed. pub get failed (1; So, because flutter_common_lib depends on dio_logger ^4.0.8+8, version solving failed.)" />
       <item value="Log printer; defaults logPrint log to console. In flutter, you'd better use debugPrint. you can also write log in a file." />
       <item value="Print compact json response" />
@@ -52,7 +53,6 @@
       <item value="n" />
       <item value="ON" />
       <item value="No&#10;" />
-      <item value="否" />
     </histories>
     <option name="languageScores">
       <map>
