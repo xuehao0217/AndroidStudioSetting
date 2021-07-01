@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
       <item value="problem occurred evaluating project ':common_core'. &gt; Supplied String module notation 'junit=4.12' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'." />
       <item value="A problem occurred evaluating project ':common_core'. &gt; Supplied String module notation 'junit=junit=4.12' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'." />
       <item value="A problem occurred evaluating project ':common_core'. &gt; Could not find method android() for arguments [build_3ijqzl6et5qiklygwvkgmfdx2_run_closure1@1f5da22c] on project ':common_core' of type org.gradle.api.Project." />
@@ -52,7 +53,6 @@
       <item value="The argument type 'Type' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
       <item value="finished with non-zero exit value 1" />
       <item value="Method 'replaceFirst' cannot be called on 'String?' because it is potentially null." />
-      <item value="Way" />
     </histories>
     <option name="languageScores">
       <map>
