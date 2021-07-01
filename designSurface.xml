@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.2518518518518518" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.24814814814814815" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/4128d94a5a7b75ed3237c9bc4c17865f/jetified-base_adapter-1.0.0/res/layout/brvah_quick_view_load_more.xml" value="0.28894927536231885" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/4808a821d5462319e4ffaa84db73f984/jetified-library_view_component-1.0.14/res/layout/component_input_dialog_common_view.xml" value="0.3029891304347826" />
         <entry key="app/src/main/res/layout/activity_consecutive.xml" value="0.1899696048632219" />
@@ -43,7 +43,7 @@
         <entry key="bbs/module_home/src/main/res/layout/layout_home_top.xml" value="0.3392210144927536" />
         <entry key="bbs/module_home/src/main/res/layout/layout_v815_home_collapse.xml" value="1.0" />
         <entry key="bbs/module_home/src/main/res/layout/layout_v824_home_collapse.xml" value="0.1899696048632219" />
-        <entry key="bbs/module_home/src/main/res/layout/view_discount_pay_layout.xml" value="0.1601123595505618" />
+        <entry key="bbs/module_home/src/main/res/layout/view_discount_pay_layout.xml" value="0.1899696048632219" />
         <entry key="bbs/module_post/src/main/res/layout/activity_add_collection.xml" value="0.3029891304347826" />
         <entry key="bbs/module_post/src/main/res/layout/activity_add_collection_tiny.xml" value="0.3029891304347826" />
         <entry key="bbs/module_post/src/main/res/layout/activity_complaints_post.xml" value="0.3029891304347826" />
