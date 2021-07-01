@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Failed to apply plugin 'com.android.internal.library'. &gt; org.gradle.api.InvalidUserDataException: Cannot add a configuration with name 'lintClassPath' as a configuration with that name already exists." />
+      <item value="A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTaskTaskAction &gt; AAPT2 aapt2-4.2.1-7147631-osx Daemon 0: Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
       <item value="Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
       <item value="problem occurred evaluating project ':common_core'. &gt; Supplied String module notation 'junit=4.12' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'." />
       <item value="A problem occurred evaluating project ':common_core'. &gt; Supplied String module notation 'junit=junit=4.12' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'." />
@@ -51,8 +53,6 @@
       <item value="The base class for all function types. The run-time type of a function object is subtype of a function type, and as such, a subtype of [Function]." />
       <item value="The argument type 'Null Function(dynamic)' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
       <item value="The argument type 'Type' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
-      <item value="finished with non-zero exit value 1" />
-      <item value="Method 'replaceFirst' cannot be called on 'String?' because it is potentially null." />
     </histories>
     <option name="languageScores">
       <map>
