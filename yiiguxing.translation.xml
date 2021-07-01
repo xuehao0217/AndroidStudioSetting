@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="A problem occurred evaluating project ':common_core'. &gt; Could not find method android() for arguments [build_3ijqzl6et5qiklygwvkgmfdx2_run_closure1@1f5da22c] on project ':common_core' of type org.gradle.api.Project." />
       <item value="Cannot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.10 because no repositories are defined" />
       <item value="Cannot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.10 because no repositories are defined." />
       <item value="annot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.10 because no repositories are defined." />
@@ -52,7 +53,6 @@
       <item value="Way" />
       <item value="Album(" />
       <item value="take Way By Album" />
-      <item value="Atomically increments by one the current value. @return the previous value" />
     </histories>
     <option name="languageScores">
       <map>
