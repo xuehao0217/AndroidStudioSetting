@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="Cannot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.10 because no repositories are defined." />
+      <item value="annot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.10 because no repositories are defined." />
+      <item value="ould not resolve all task dependencies for configuration ':VersionPlugin:compileClasspath'." />
+      <item value="Could not determine the dependencies of task ':VersionPlugin:compileJava'." />
+      <item value="only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
+      <item value="三" />
+      <item value="san" />
       <item value="The option setting 'android.enableR8=false' is deprecated. It will be removed in version 7.0 of the Android Gradle plugin. You will no longer be able to disable R8" />
       <item value="DSL element 'android.viewBinding.enabled' is obsolete and has been replaced with 'android.buildFeatures.viewBinding'. It will be removed in version 7.0 of the Android Gradle plugin." />
       <item value="The specified Android SDK Build Tools version (29.0.2) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.1. Android SDK Build Tools 30.0.2 will be used. To suppress this warning, remove &quot;buildToolsVersion '29.0.2'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
@@ -46,13 +53,6 @@
       <item value="take Way By Album" />
       <item value="Atomically increments by one the current value. @return the previous value" />
       <item value="图库&#10;" />
-      <item value="图例" />
-      <item value="exposed beyond app through Intent.getData()" />
-      <item value="RuntimeException: Failure delivering result ResultInfo{who=null, request=65556, result=-1, data=Intent { act=inline-data (has extras) }} to activity {com.xueh.commonlibcom.xueh.commonlib.ui.MainActivity}: android.os.FileUriExposedException: file:storageemulated0Androiddatacom.xueh.commonlibcacheimg.PNG exposed beyond app through Intent.getData()" />
-      <item value="Failure delivering result ResultInfo{who=null, request=65556, result=-1, data=Intent { act=inline-data (has extras) }} to activity {com.xueh.commonlibcom.xueh.commonlib.ui.MainActivity}: android.os.FileUriExposedException: file:storageemulated0Androiddatacom.xueh.commonlibcacheimg.PNG exposed beyond app through Intent.getData()" />
-      <item value="An {@link ActivityResultContract} to {@link MediaStoreACTION_IMAGE_CAPTURE take small a picture} preview, returning it as a {@link Bitmap}. &lt;p&gt; This can be extended to override {@link createIntent} if you wish to pass additional extras to the Intent created by {@code super.createIntent()}." />
-      <item value="No" />
-      <item value="N" />
     </histories>
     <option name="languageScores">
       <map>
