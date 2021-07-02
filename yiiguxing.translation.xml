@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="LifecycleOwners must call register before &quot; + &quot;they are STARTED" />
       <item value="Failed to apply plugin 'com.android.internal.library'. &gt; org.gradle.api.InvalidUserDataException: Cannot add a configuration with name 'lintClassPath' as a configuration with that name already exists." />
       <item value="A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTaskTaskAction &gt; AAPT2 aapt2-4.2.1-7147631-osx Daemon 0: Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
       <item value="Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
@@ -52,7 +53,6 @@
       <item value="A problem occurred evaluating settings 'My Application'. &gt; Could not find which method &lt;init&gt;() to invoke from this list: public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.Object) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.String, java.lang.Object, boolean) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.String, java.lang.Object) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.Object, boolean)" />
       <item value="The base class for all function types. The run-time type of a function object is subtype of a function type, and as such, a subtype of [Function]." />
       <item value="The argument type 'Null Function(dynamic)' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
-      <item value="The argument type 'Type' can't be assigned to the parameter type 'SuccessCallBack&lt;BannerEntity&gt;'. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
