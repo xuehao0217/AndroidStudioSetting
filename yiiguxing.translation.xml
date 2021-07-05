@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="316" />
+    <option name="newTranslationDialogWidth" value="645" />
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="A new Android Studio Arctic Fox | 2020.3.1 Beta 5 is available in the Beta channel.&#10;Android Studio Arctic Fox | 2020.3.1 Beta 5 offers new functionality, bug fixes, and performance improvements.  Beta builds include all of our new features with additional testing. We try to release updates weekly to address bugs and introduce new features. They are still subject to bugs, but we want people to see what's new as soon as possible while limiting the risk of a regression." />
       <item value="lateinit property activity has not been initialized" />
       <item value="Unable to start activity ComponentInfo" />
       <item value="java.lang.IllegalStateException: Fragment MyFragment{54d982f} (2a78c8b9-ed9c-4915-976c-8da7e5ca730f id=0x7f080120 tag=android:switcher:2131231008:1) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
@@ -52,7 +55,6 @@
       <item value="清除" />
       <item value="qing'chu" />
       <item value="清楚" />
-      <item value="q" />
     </histories>
     <option name="languageScores">
       <map>
