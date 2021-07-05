@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="all Granted" />
+      <item value="explained" />
+      <item value="denied" />
       <item value="Gets whether you should show UI with rationale for requesting a permission. You should do this only if you do not have the permission and the context in which the permission is requested does not clearly communicate to the user what would be the benefit from granting this permission. &lt;p&gt; For example, if you write a camera app, requesting the camera permission would be expected by the user and no rationale for why it is requested is needed. If however, the app needs location for tagging photos then a non-tech savvy user may wonder how location is related to taking photos. In this case you may choose to show UI with rationale of requesting this permission. &lt;p&gt;" />
       <item value="should Show Request Permission Rationale" />
       <item value="LifecycleOwners must call register before &quot; + &quot;they are STARTED" />
@@ -50,9 +53,6 @@
       <item value="unititle&#10;" />
       <item value="unititle&#10;d" />
       <item value="uniti" />
-      <item value="unit" />
-      <item value="Warning: You are using these overridden dependencies: ! intl 0.16.1 (0.17.0 available)" />
-      <item value="A problem occurred evaluating settings 'My Application'. &gt; Could not find which method &lt;init&gt;() to invoke from this list: public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.Object) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.String, java.lang.Object, boolean) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.String, java.lang.Object) public javax.naming.Binding&lt;init&gt;(java.lang.String, java.lang.Object, boolean)" />
     </histories>
     <option name="languageScores">
       <map>
