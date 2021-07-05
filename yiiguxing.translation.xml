@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="lateinit property activity has not been initialized" />
+      <item value="Unable to start activity ComponentInfo" />
       <item value="java.lang.IllegalStateException: Fragment MyFragment{54d982f} (2a78c8b9-ed9c-4915-976c-8da7e5ca730f id=0x7f080120 tag=android:switcher:2131231008:1) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
       <item value="kotlin.UninitializedPropertyAccessException: lateinit property launcher has not been initialized" />
       <item value="all Granted" />
@@ -51,8 +53,6 @@
       <item value="qing'chu" />
       <item value="清楚" />
       <item value="q" />
-      <item value="unititled" />
-      <item value="unititle&#10;" />
     </histories>
     <option name="languageScores">
       <map>
