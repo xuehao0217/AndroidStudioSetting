@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="updata" />
       <item value="addS" />
       <item value="add" />
       <item value="购物&#10;" />
@@ -54,7 +55,6 @@
       <item value="The option setting 'android.enableR8=false' is deprecated. It will be removed in version 7.0 of the Android Gradle plugin. You will no longer be able to disable R8" />
       <item value="DSL element 'android.viewBinding.enabled' is obsolete and has been replaced with 'android.buildFeatures.viewBinding'. It will be removed in version 7.0 of the Android Gradle plugin." />
       <item value="The specified Android SDK Build Tools version (29.0.2) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.1. Android SDK Build Tools 30.0.2 will be used. To suppress this warning, remove &quot;buildToolsVersion '29.0.2'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
-      <item value="Use a list literal, [], or the List.filled constructor instea" />
     </histories>
     <option name="languageScores">
       <map>
