@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="A [Decoder] that uses [ImageDecoder] to decode GIFs, animated WebPs, and animated HEIFs. NOTE: Animated HEIF files are only supported on API 30 and above." />
       <item value="radius" />
       <item value="谈论&#10;&#10;" />
       <item value="tan'l&#10;" />
@@ -54,7 +55,6 @@
       <item value="shiu" />
       <item value="PULL" />
       <item value="DRAG" />
-      <item value="degree" />
     </histories>
     <option name="languageScores">
       <map>
