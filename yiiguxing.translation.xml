@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="idle" />
+      <item value="busy" />
+      <item value="microtask" />
       <item value="one" />
       <item value="nitialRefresh:When SmartRefresher is init,it will call requestRefresh at once" />
       <item value="updata" />
@@ -52,9 +55,6 @@
       <item value="ould not resolve all task dependencies for configuration ':VersionPlugin:compileClasspath'." />
       <item value="Could not determine the dependencies of task ':VersionPlugin:compileJava'." />
       <item value="only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
-      <item value="三" />
-      <item value="san" />
-      <item value="The option setting 'android.enableR8=false' is deprecated. It will be removed in version 7.0 of the Android Gradle plugin. You will no longer be able to disable R8" />
     </histories>
     <option name="languageScores">
       <map>
