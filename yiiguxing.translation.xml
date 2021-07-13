@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="libTest.dart: Warning: Interpreting this as package URI, 'package:flutter_common_libTest.dart'." />
+      <item value="Warning: Interpreting this as package URI" />
       <item value="The following assertion was thrown building Builder(dirty): setState() or markNeedsBuild() called during build." />
       <item value="setState() or markNeedsBuild() called during build." />
       <item value="callback when header refresh when the callback is happening,you should use [RefreshController] to end refreshing state,else it will keep refreshing state" />
@@ -53,8 +55,6 @@
       <item value="LifecycleOwners must call register before &quot; + &quot;they are STARTED" />
       <item value="Failed to apply plugin 'com.android.internal.library'. &gt; org.gradle.api.InvalidUserDataException: Cannot add a configuration with name 'lintClassPath' as a configuration with that name already exists." />
       <item value="A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTaskTaskAction &gt; AAPT2 aapt2-4.2.1-7147631-osx Daemon 0: Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
-      <item value="Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
-      <item value="problem occurred evaluating project ':common_core'. &gt; Supplied String module notation 'junit=4.12' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'." />
     </histories>
     <option name="languageScores">
       <map>
