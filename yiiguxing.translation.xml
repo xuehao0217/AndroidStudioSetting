@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="432" />
     <option name="newTranslationDialogY" value="-611" />
     <histories>
+      <item value="The following assertion was thrown building Builder(dirty): setState() or markNeedsBuild() called during build." />
+      <item value="setState() or markNeedsBuild() called during build." />
       <item value="callback when header refresh when the callback is happening,you should use [RefreshController] to end refreshing state,else it will keep refreshing state" />
       <item value="Unhandled Exception: NoSuchMethodError: The getter 'datas' was called on null. Eflutter (25319): Receiver: null" />
       <item value="message Instance of 'HttpError'" />
@@ -53,8 +55,6 @@
       <item value="A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTaskTaskAction &gt; AAPT2 aapt2-4.2.1-7147631-osx Daemon 0: Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
       <item value="Unexpected error during link, attempting to stop daemon. This should not happen under normal circumstances, please file an issue if it does." />
       <item value="problem occurred evaluating project ':common_core'. &gt; Supplied String module notation 'junit=4.12' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'." />
-      <item value="A problem occurred evaluating project ':common_core'. &gt; Supplied String module notation 'junit=junit=4.12' is invalid. Example notations: 'org.gradle:gradle-core:2.2', 'org.mockito:mockito-core:1.9.5:javadoc'." />
-      <item value="A problem occurred evaluating project ':common_core'. &gt; Could not find method android() for arguments [build_3ijqzl6et5qiklygwvkgmfdx2_run_closure1@1f5da22c] on project ':common_core' of type org.gradle.api.Project." />
     </histories>
     <option name="languageScores">
       <map>
