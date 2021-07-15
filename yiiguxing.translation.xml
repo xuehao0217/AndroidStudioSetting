@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="The following assertion was thrown building CommonListView&lt;String&gt;(dirty): setState() or markNeedsBuild() called during build. This HomePage widget cannot be marked as needing to build because the framework is already in the process of building widgets. A widget can be marked as needing to be built during the build phase only if one of its ancestors is currently building. This exception is allowed because the framework builds parent widgets before children, which means a dirty descendant will always be built. Otherwise, the framework might not visit this widget during this build phase. The widget on which setState() or markNeedsBuild() was called was: HomePage state: _HomePageStatee90f3 The widget which was currently being built when the offending call was made was: CommonListView&lt;String&gt; dirty" />
       <item value="The following assertion was thrown building CommonListView&lt;String&gt;(dirty): setState() or markNeedsBuild() called during build. This Overlay widget cannot be marked as needing to build because the framework is already in the process of building widgets. A widget can be marked as needing to be built during the build phase only if one of its ancestors is currently building. This exception is allowed because the framework builds parent widgets before children, which means a dirty descendant will always be built. Otherwise, the framework might not visit this widget during this build phase. The widget on which setState() or markNeedsBuild() was called was: Overlay state: OverlayState83e52(entries: [OverlayEntry82716(opaque: false; maintainState: false), OverlayEntry3ed9c(opaque: false; maintainState: false)]) The widget which was currently being built when the offending call was made was: CommonListView&lt;String&gt; dirty The relevant error-causing widget was" />
       <item value="This Overlay widget cannot be marked as needing to build because the framework is already in the process of building widgets. A widget can be marked as needing to be built during the build phase only if one of its ancestors is currently building. This exception is allowed because the framework builds parent widgets before children, which means a dirty descendant will always be built. Otherwise, the framework might not visit this widget during this build phase. The widget on which setState() or markNeedsBuild() was called was: Overlay state: OverlayState83e52(entries: [OverlayEntry82716(opaque: false; maintainState: false), OverlayEntry3ed9c(opaque: false; maintainState: false)]) The widget which was currently being built when the offending call was made was: CommonListView&lt;String&gt; dirty" />
       <item value="组件&#10;" />
@@ -54,7 +55,6 @@
       <item value="手术交流&#10;" />
       <item value="手术交liu" />
       <item value="手术" />
-      <item value="sh'pi" />
     </histories>
     <option name="languageScores">
       <map>
