@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="316" />
     <option name="newTranslationDialogWidth" value="645" />
-    <option name="newTranslationDialogX" value="566" />
-    <option name="newTranslationDialogY" value="382" />
+    <option name="newTranslationDialogX" value="459" />
+    <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="组件&#10;" />
       <item value="多条目&#10;&#10;" />
       <item value="多ti'o'a'mu&#10;" />
       <item value="多tioa'm'y&#10;" />
@@ -54,7 +55,6 @@
       <item value="sh'pi" />
       <item value="Gets whether you should show UI with rationale for requesting a permission. You should do this only if you do not have the permission and the context in which the permission is requested does not clearly communicate to the user what would be the benefit from granting this permission. &lt;p&gt; For example, if you write a camera app, requesting the camera permission would be expected by the user and no rationale for why it is requested is needed. If however, the app needs location for tagging photos then a non-tech savvy user may wonder how location is related to taking photos. In this case you may choose to show UI with rationale of requesting this permission. &lt;p&gt; @param permission A permission your app wants to request. @return Whether you can show permission rationale UI. @see checkSelfPermission(String) @see requestPermissions(String[], int) @see onRequestPermissionsResult(int, String[], int[])" />
       <item value="A new Android Studio Arctic Fox | 2020.3.1 Beta 5 is available in the Beta channel.&#10;Android Studio Arctic Fox | 2020.3.1 Beta 5 offers new functionality, bug fixes, and performance improvements.  Beta builds include all of our new features with additional testing. We try to release updates weekly to address bugs and introduce new features. They are still subject to bugs, but we want people to see what's new as soon as possible while limiting the risk of a regression." />
-      <item value="lateinit property activity has not been initialized" />
     </histories>
     <option name="languageScores">
       <map>
