@@ -136,9 +136,11 @@
         <entry key="platform/module_face/src/main/res/layout/activity_authentication.xml" value="0.3029891304347826" />
         <entry key="platform/module_face/src/main/res/layout/activity_authorization_card.xml" value="0.3029891304347826" />
         <entry key="platform/module_login/src/main/res/layout/widget_verification_code_input.xml" value="0.3029891304347826" />
+        <entry key="platform/module_main/src/main/res/drawable/loading_splash_img.xml" value="0.23796296296296296" />
         <entry key="platform/module_main/src/main/res/drawable/shape_search_guide_bg.xml" value="0.3148148148148148" />
         <entry key="platform/module_main/src/main/res/layout/activity_main.xml" value="0.1899696048632219" />
         <entry key="platform/module_main/src/main/res/layout/activity_teenager.xml" value="0.1" />
+        <entry key="platform/module_main/src/main/res/layout/layout_splash.xml" value="0.1899696048632219" />
         <entry key="platform/module_setting/src/main/res/layout/activity_smcode_verification.xml" value="0.3029891304347826" />
         <entry key="platform/module_setting/src/main/res/layout/fragment_change_phone.xml" value="0.3029891304347826" />
         <entry key="platform/module_setting/src/main/res/layout/fragment_update_phone.xml" value="0.3029891304347826" />
