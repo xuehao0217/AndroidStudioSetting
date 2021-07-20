@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Whether to paint the [shape] border in front of the [child]. The default value is true. If false, the border will be painted behind the [child]." />
       <item value="The following assertion was thrown building CommonListView2&lt;HomeDatas&gt;(dirty, state: _CommonListView2State6e314): Failed assertion: boolean expression must not be null" />
       <item value="satety" />
       <item value="satet" />
@@ -54,7 +55,6 @@
       <item value="一键加gou" />
       <item value="一键加go" />
       <item value="一键jia" />
-      <item value="A [Decoder] that uses [ImageDecoder] to decode GIFs, animated WebPs, and animated HEIFs. NOTE: Animated HEIF files are only supported on API 30 and above." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626090298576" />
+    <option name="lastTrimTime" value="1626769291448" />
   </component>
 </application>
