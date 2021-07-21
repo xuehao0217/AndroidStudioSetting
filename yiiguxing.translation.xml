@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="体验官" />
+      <item value="体验guan" />
+      <item value="体验" />
+      <item value="ti'yang" />
       <item value="Whether to paint the [shape] border in front of the [child]. The default value is true. If false, the border will be painted behind the [child]." />
       <item value="The following assertion was thrown building CommonListView2&lt;HomeDatas&gt;(dirty, state: _CommonListView2State6e314): Failed assertion: boolean expression must not be null" />
       <item value="satety" />
@@ -51,10 +55,6 @@
       <item value="加购wu&#10;" />
       <item value="加购" />
       <item value="jia" />
-      <item value="一键加购" />
-      <item value="一键加gou" />
-      <item value="一键加go" />
-      <item value="一键jia" />
     </histories>
     <option name="languageScores">
       <map>
