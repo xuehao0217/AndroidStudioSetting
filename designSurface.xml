@@ -118,6 +118,7 @@
         <entry key="doctor/module_workspace/src/main/res/layout/workspace_view_fill_information_aptitude.xml" value="0.3029891304347826" />
         <entry key="hospital/module_hospital/src/main/res/layout/dialog_quote_submit_layout.xml" value="0.3029891304347826" />
         <entry key="hospital/module_map/src/main/res/layout/activity_city_filter.xml" value="0.3029891304347826" />
+        <entry key="library_evaluation/src/main/res/layout/dialog_evaluation_layout.xml" value="0.14444444444444443" />
         <entry key="library_evaluation/src/main/res/layout/view_sign_progress_layout.xml" value="0.1" />
         <entry key="middle/module_brand/src/main/res/layout/activity_826_main.xml" value="0.1899696048632219" />
         <entry key="middle/module_brand/src/main/res/layout/activity_brand_news.xml" value="0.1899696048632219" />
