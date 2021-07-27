@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="translate" />
       <item value="The width of this side of the border, in logical pixels. Setting width to 0.0 will result in a hairline border. This means that the border will have the width of one physical pixel. Also, hairline rendering takes shortcuts when the path overlaps a pixel more than once. This means that it will render faster than otherwise, but it might double-hit pixels, giving it a slightly darkerlighter result. To omit the border entirely, set the [style] to [BorderStyle.none]." />
       <item value="If non-null, sets its width to the child's width multiplied by this factor. Can be both greater and less than 1.0 but must be non-negative." />
       <item value="Increasing the maximum heap size from 1280MB to 2048MB could make the IDE perform better, based on the available memory and your project size." />
@@ -54,7 +55,6 @@
       <item value="microtask" />
       <item value="one" />
       <item value="nitialRefresh:When SmartRefresher is init,it will call requestRefresh at once" />
-      <item value="updata" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626769291448" />
+    <option name="lastTrimTime" value="1627357577354" />
   </component>
 </application>
