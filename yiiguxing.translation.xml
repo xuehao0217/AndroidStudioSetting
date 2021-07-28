@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Glide treats LayoutParams.WRAP_CONTENT as a request for an image the size of this&quot; + &quot; device's screen dimensions. If you want to load the original image and are&quot; + &quot; ok with the corresponding memory cost and OOMs (depending on the input size),&quot; + &quot; use override(Target.SIZE_ORIGINAL). Otherwise, use LayoutParams.MATCH_PARENT,&quot; + &quot; set layout_width and layout_height to fixed dimension, or use .override()&quot; + &quot; with fixed dimensions." />
+      <item value="Finally we consider the view valid if the layout parameter size is set to wrap_content. It's difficult for Glide to figure out what to do here. Although Target.SIZE_ORIGINAL is a coherent choice, it's extremely dangerous because original images may be much too large to fit in memory or so large that only a couple can fit in memory, causing OOMs. If users want the original image, they can always use .override(Target.SIZE_ORIGINAL). Since wrap_content may never resolve to a real size unless we load something, we aim for a square whose length is the largest screen size. That way we're loading something and that something has some hope of being downsampled to a size that the device can support. We also log a warning that tries to explain what Glide is doing and why some alternatives are preferable. Since WRAP_CONTENT is sometimes used as a default layout parameter, we always wait for layout to complete before using this fallback parameter (ConstraintLayout among others)." />
       <item value="Implementation of the {@link SnapHelper} supporting snapping in either vertical or horizontal orientation. &lt;p&gt; The implementation will snap the center of the target child view to the center of the attached {@link RecyclerView}. If you intend to change this behavior then override {@link SnapHelpercalculateDistanceToFinalSnap}." />
       <item value="calculate Distance To Final Snap" />
       <item value="translate" />
@@ -53,8 +55,6 @@
       <item value="Json Convert" />
       <item value="on Model Ready" />
       <item value="idle" />
-      <item value="busy" />
-      <item value="microtask" />
     </histories>
     <option name="languageScores">
       <map>
