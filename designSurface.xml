@@ -163,11 +163,20 @@
         <entry key="platform/module_main/src/main/res/layout/dialog_teenager.xml" value="0.25625" />
         <entry key="platform/module_main/src/main/res/layout/layout_dialog_msg_clickbale.xml" value="0.1899696048632219" />
         <entry key="platform/module_main/src/main/res/layout/layout_splash.xml" value="1.0" />
+        <entry key="platform/module_setting/src/main/res/layout/activity_setting_teenager.xml" value="0.1899696048632219" />
         <entry key="platform/module_setting/src/main/res/layout/activity_smcode_verification.xml" value="0.3029891304347826" />
         <entry key="platform/module_setting/src/main/res/layout/dialog_sy_bottom_layout.xml" value="0.3500905797101449" />
         <entry key="platform/module_setting/src/main/res/layout/fragment_change_phone.xml" value="0.3029891304347826" />
         <entry key="platform/module_setting/src/main/res/layout/fragment_update_phone.xml" value="0.3029891304347826" />
         <entry key="platform/module_setting/src/main/res/layout/item_sy_bottom_layout.xml" value="0.3962962962962963" />
+        <entry key="platform/module_simulate/src/main/res/drawable/isb_indicator_rounded_corners.xml" value="0.2388888888888889" />
+        <entry key="platform/module_simulate/src/main/res/drawable/isb_indicator_square_corners.xml" value="0.2388888888888889" />
+        <entry key="platform/module_simulate/src/main/res/drawable/shape_effect_desc_left_icon.xml" value="0.2388888888888889" />
+        <entry key="platform/module_simulate/src/main/res/drawable/shape_simulate_card_bg.xml" value="0.2388888888888889" />
+        <entry key="platform/module_simulate/src/main/res/drawable/shape_simulate_style_bg.xml" value="0.2388888888888889" />
+        <entry key="platform/module_simulate/src/main/res/drawable/shape_simulate_style_selected.xml" value="0.2388888888888889" />
+        <entry key="platform/module_simulate/src/main/res/drawable/shape_simulate_style_unselected.xml" value="0.2388888888888889" />
+        <entry key="platform/module_simulate/src/main/res/drawable/shape_tri.xml" value="0.2388888888888889" />
         <entry key="platform/module_simulate/src/main/res/layout/item_make_up_content_layout.xml" value="0.3496376811594203" />
         <entry key="platform/module_simulate/src/main/res/layout/item_make_up_tab_layout.xml" value="0.3496376811594203" />
         <entry key="platform/module_simulate/src/main/res/layout/make_up_report_activity.xml" value="0.3541666666666667" />
