@@ -35,7 +35,7 @@
         <entry key="app/src/main/res/layout/widget_ui_status_network_error_widget.xml" value="0.32971014492753625" />
         <entry key="base/arouter/src/main/res/layout/activity_second.xml" value="0.3007246376811594" />
         <entry key="base/common_widget/src/main/res/drawable/home_v812_count_down_bg.xml" value="0.262037037037037" />
-        <entry key="base/common_widget/src/main/res/layout/widget_countdown_timer_style1.xml" value="0.30480072463768115" />
+        <entry key="base/common_widget/src/main/res/layout/widget_countdown_timer_style1.xml" value="0.67" />
         <entry key="bbs/module_ask/src/main/res/layout/activity_answer_detail_new.xml" value="0.1" />
         <entry key="bbs/module_ask/src/main/res/layout/activity_easy_publisher_new.xml" value="0.1" />
         <entry key="bbs/module_ask/src/main/res/layout/activity_nation_answer_new.xml" value="0.3029891304347826" />
@@ -50,7 +50,7 @@
         <entry key="bbs/module_home/src/main/res/layout/fragment_v815_home.xml" value="0.1899696048632219" />
         <entry key="bbs/module_home/src/main/res/layout/fragment_v824_home.xml" value="0.1899696048632219" />
         <entry key="bbs/module_home/src/main/res/layout/item_add_shop_layout.xml" value="0.1899696048632219" />
-        <entry key="bbs/module_home/src/main/res/layout/item_experience_layout.xml" value="0.30480072463768115" />
+        <entry key="bbs/module_home/src/main/res/layout/item_experience_layout.xml" value="0.3423913043478261" />
         <entry key="bbs/module_home/src/main/res/layout/item_home_pay_layout.xml" value="0.5" />
         <entry key="bbs/module_home/src/main/res/layout/item_home_surgical_layout.xml" value="0.625" />
         <entry key="bbs/module_home/src/main/res/layout/layout_home_top.xml" value="0.3392210144927536" />
