@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="The following project options are deprecated and have been removed:" />
       <item value="渐变&#10;" />
       <item value="选中&#10;" />
       <item value="Glide treats LayoutParams.WRAP_CONTENT as a request for an image the size of this&quot; + &quot; device's screen dimensions. If you want to load the original image and are&quot; + &quot; ok with the corresponding memory cost and OOMs (depending on the input size),&quot; + &quot; use override(Target.SIZE_ORIGINAL). Otherwise, use LayoutParams.MATCH_PARENT,&quot; + &quot; set layout_width and layout_height to fixed dimension, or use .override()&quot; + &quot; with fixed dimensions." />
@@ -54,7 +55,6 @@
       <item value="Unhandled Exception: NoSuchMethodError: The getter 'datas' was called on null. Eflutter (25319): Receiver: null" />
       <item value="message Instance of 'HttpError'" />
       <item value="Instance of 'HttpError'" />
-      <item value="Json Convert" />
     </histories>
     <option name="languageScores">
       <map>
