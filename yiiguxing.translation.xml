@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="0802 17:11:35: Launching 'app' on HUAWEI HMA-AL00. Retry Installation did not succeed. The application could not be installed. List of apks: [0] 'UsersxuehaoAndroidStudioProjectsworkandroid_platformappbuildoutputsapkdebugapp-debug.apk' Installation failed due to: 'Invalid File: UsersxuehaoAndroidStudioProjectsworkandroid_platformappbuildoutputsapkdebugapp-debug.apk'" />
       <item value="The following project options are deprecated and have been removed:" />
       <item value="渐变&#10;" />
       <item value="选中&#10;" />
@@ -54,7 +55,6 @@
       <item value="callback when header refresh when the callback is happening,you should use [RefreshController] to end refreshing state,else it will keep refreshing state" />
       <item value="Unhandled Exception: NoSuchMethodError: The getter 'datas' was called on null. Eflutter (25319): Receiver: null" />
       <item value="message Instance of 'HttpError'" />
-      <item value="Instance of 'HttpError'" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627357577354" />
+    <option name="lastTrimTime" value="1627895512855" />
   </component>
 </application>
