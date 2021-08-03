@@ -183,6 +183,7 @@
         <entry key="platform/module_simulate/src/main/res/drawable/shape_simulate_style_selected.xml" value="0.2388888888888889" />
         <entry key="platform/module_simulate/src/main/res/drawable/shape_simulate_style_unselected.xml" value="0.2388888888888889" />
         <entry key="platform/module_simulate/src/main/res/drawable/shape_tri.xml" value="0.2388888888888889" />
+        <entry key="platform/module_simulate/src/main/res/layout/dialog_make_up_layout.xml" value="0.3269927536231884" />
         <entry key="platform/module_simulate/src/main/res/layout/item_make_up_content_layout.xml" value="0.3496376811594203" />
         <entry key="platform/module_simulate/src/main/res/layout/item_make_up_tab_layout.xml" value="0.3496376811594203" />
         <entry key="platform/module_simulate/src/main/res/layout/make_up_report_activity.xml" value="0.3541666666666667" />
