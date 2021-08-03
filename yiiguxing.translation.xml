@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="推荐" />
       <item value="Installation did not succeed. The application could not be installed." />
       <item value="0802 17:11:35: Launching 'app' on HUAWEI HMA-AL00. Retry Installation did not succeed. The application could not be installed. List of apks: [0] 'UsersxuehaoAndroidStudioProjectsworkandroid_platformappbuildoutputsapkdebugapp-debug.apk' Installation failed due to: 'Invalid File: UsersxuehaoAndroidStudioProjectsworkandroid_platformappbuildoutputsapkdebugapp-debug.apk'" />
       <item value="The following project options are deprecated and have been removed:" />
@@ -54,7 +55,6 @@
       <item value="The following assertion was thrown building Builder(dirty): setState() or markNeedsBuild() called during build." />
       <item value="setState() or markNeedsBuild() called during build." />
       <item value="callback when header refresh when the callback is happening,you should use [RefreshController] to end refreshing state,else it will keep refreshing state" />
-      <item value="Unhandled Exception: NoSuchMethodError: The getter 'datas' was called on null. Eflutter (25319): Receiver: null" />
     </histories>
     <option name="languageScores">
       <map>
