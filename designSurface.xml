@@ -58,6 +58,7 @@
         <entry key="bbs/module_home/src/main/res/layout/item_experience_layout.xml" value="0.3423913043478261" />
         <entry key="bbs/module_home/src/main/res/layout/item_home_pay_layout.xml" value="0.5" />
         <entry key="bbs/module_home/src/main/res/layout/item_home_surgical_layout.xml" value="0.625" />
+        <entry key="bbs/module_home/src/main/res/layout/item_join_group_layout.xml" value="0.31657608695652173" />
         <entry key="bbs/module_home/src/main/res/layout/layout_home_top.xml" value="0.3392210144927536" />
         <entry key="bbs/module_home/src/main/res/layout/layout_popup_post_731.xml" value="0.3179347826086957" />
         <entry key="bbs/module_home/src/main/res/layout/layout_v815_home_collapse.xml" value="0.21037998146431883" />
@@ -67,6 +68,7 @@
         <entry key="bbs/module_home/src/main/res/layout/view_discount_pay_layout.xml" value="0.1899696048632219" />
         <entry key="bbs/module_home/src/main/res/layout/view_experience_layout.xml" value="0.3056910569105691" />
         <entry key="bbs/module_home/src/main/res/layout/view_home_new_user_program_layout.xml" value="0.1899696048632219" />
+        <entry key="bbs/module_home/src/main/res/layout/view_join_group_layout.xml" value="0.2758132956152758" />
         <entry key="bbs/module_home/src/main/res/layout/view_mojing_layout.xml" value="0.38269927536231885" />
         <entry key="bbs/module_home/src/main/res/layout/view_surgical_talk_layout.xml" value="0.352112676056338" />
         <entry key="bbs/module_post/src/main/res/layout/activity_add_collection.xml" value="0.3029891304347826" />
