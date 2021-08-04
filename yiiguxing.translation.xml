@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="stack size 8192KB" />
       <item value="拼团" />
       <item value="分层&#10;" />
       <item value="fen" />
@@ -54,7 +55,6 @@
       <item value="多&#10;" />
       <item value="多条" />
       <item value="libTest.dart: Warning: Interpreting this as package URI, 'package:flutter_common_libTest.dart'." />
-      <item value="Warning: Interpreting this as package URI" />
     </histories>
     <option name="languageScores">
       <map>
