@@ -1,12 +1,14 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".analysis_options" type="PLAIN_TEXT" />
       <mapping pattern="traceconfig" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
+      <mapping pattern=".analysis_options" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
     </extensionMap>
   </component>
