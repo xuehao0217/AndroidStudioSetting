@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="百" />
+      <item value="bai" />
       <item value="JUMP URL" />
       <item value="android.view.InflateException: Binary XML file line 24 in com.youxiang.soyoungapp:layoutmake_up_report_activity: Could not inflate Behavior subclass com.youxiang.soyoungapp.utils.CustomBehavior" />
       <item value="An exception occurred applying plugin request [id: 'com.android.application'] &gt; Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
@@ -53,8 +55,6 @@
       <item value="多tioa'm'y&#10;" />
       <item value="多条mu&#10;" />
       <item value="多条&#10;" />
-      <item value="多tioa'm" />
-      <item value="多跳" />
     </histories>
     <option name="languageScores">
       <map>
