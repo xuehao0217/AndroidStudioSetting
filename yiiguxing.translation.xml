@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="小" />
+      <item value="Unable to load class 'javax.xml.bind.JAXBException'.&#10;&#10;This is an unexpected error. Please file a bug containing the idea.log file." />
+      <item value="Unable to load class 'javax.xml.bind.JAXBException'. This is an unexpected error. Please file a bug containing the idea.log file." />
       <item value="Conversion of Char to Number is deprecated. Use Char.code property instead." />
       <item value="百" />
       <item value="bai" />
@@ -52,9 +55,6 @@
       <item value="This Overlay widget cannot be marked as needing to build because the framework is already in the process of building widgets. A widget can be marked as needing to be built during the build phase only if one of its ancestors is currently building. This exception is allowed because the framework builds parent widgets before children, which means a dirty descendant will always be built. Otherwise, the framework might not visit this widget during this build phase. The widget on which setState() or markNeedsBuild() was called was: Overlay state: OverlayState83e52(entries: [OverlayEntry82716(opaque: false; maintainState: false), OverlayEntry3ed9c(opaque: false; maintainState: false)]) The widget which was currently being built when the offending call was made was: CommonListView&lt;String&gt; dirty" />
       <item value="组件&#10;" />
       <item value="多条目&#10;&#10;" />
-      <item value="多ti'o'a'mu&#10;" />
-      <item value="多tioa'm'y&#10;" />
-      <item value="多条mu&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627895512855" />
+    <option name="lastTrimTime" value="1628479458536" />
   </component>
 </application>
