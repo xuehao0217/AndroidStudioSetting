@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="The application could not be installed." />
       <item value="What went wrong: Execution failed for task ':app:compileDebugKotlin'. &gt; Kotlin could not find the required JDK tools in the Java installation 'LibraryInternet Plug-InsJavaAppletPlugin.pluginContentsHome' used by Gradle. Make sure Gradle is running on a JDK, not JRE." />
       <item value="Execution failed for task ':module_simulate:kaptGenerateStubsDebugKotlin'. &gt; Internal compiler error. See log for more details" />
       <item value="PENDING ACTION NONE" />
@@ -54,7 +55,6 @@
       <item value="sat" />
       <item value="st" />
       <item value="s" />
-      <item value="The following assertion was thrown building CommonListView&lt;String&gt;(dirty): setState() or markNeedsBuild() called during build. This HomePage widget cannot be marked as needing to build because the framework is already in the process of building widgets. A widget can be marked as needing to be built during the build phase only if one of its ancestors is currently building. This exception is allowed because the framework builds parent widgets before children, which means a dirty descendant will always be built. Otherwise, the framework might not visit this widget during this build phase. The widget on which setState() or markNeedsBuild() was called was: HomePage state: _HomePageStatee90f3 The widget which was currently being built when the offending call was made was: CommonListView&lt;String&gt; dirty" />
     </histories>
     <option name="languageScores">
       <map>
