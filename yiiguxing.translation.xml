@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="74130925 添加合并代码 Your local changes would be overwritten by revert. Commit your changes or stash them to proceed." />
       <item value="The application could not be installed." />
       <item value="What went wrong: Execution failed for task ':app:compileDebugKotlin'. &gt; Kotlin could not find the required JDK tools in the Java installation 'LibraryInternet Plug-InsJavaAppletPlugin.pluginContentsHome' used by Gradle. Make sure Gradle is running on a JDK, not JRE." />
       <item value="Execution failed for task ':module_simulate:kaptGenerateStubsDebugKotlin'. &gt; Internal compiler error. See log for more details" />
@@ -54,7 +55,6 @@
       <item value="sate" />
       <item value="sat" />
       <item value="st" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
