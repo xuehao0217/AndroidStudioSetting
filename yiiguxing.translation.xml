@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Receiver: Closure: () =&gt; Null" />
       <item value="Attempt to read from null array" />
       <item value="Row's children must not contain any null values, but a null value was found at index 1" />
       <item value="The color to use for the scrim that obscures primary content while a drawer is open. By default, the color is [Colors.black54]" />
@@ -54,7 +55,6 @@
       <item value="体验官" />
       <item value="体验guan" />
       <item value="体验" />
-      <item value="ti'yang" />
     </histories>
     <option name="languageScores">
       <map>
