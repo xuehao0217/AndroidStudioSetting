@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Attempt to read from null array" />
       <item value="Row's children must not contain any null values, but a null value was found at index 1" />
       <item value="The color to use for the scrim that obscures primary content while a drawer is open. By default, the color is [Colors.black54]" />
       <item value="Your Flutter application is created using an older version of the Android embedding. It's being deprecated in favor of Android embedding v2. Follow the steps at" />
@@ -54,7 +55,6 @@
       <item value="体验guan" />
       <item value="体验" />
       <item value="ti'yang" />
-      <item value="Whether to paint the [shape] border in front of the [child]. The default value is true. If false, the border will be painted behind the [child]." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628479458536" />
+    <option name="lastTrimTime" value="1629081044532" />
   </component>
 </application>
