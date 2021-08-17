@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Type mismatch: inferred type is TopSmoothScroller but RecyclerView.LayoutManager? was expected" />
+      <item value="Type mismatch.&#10;Required:&#10;RecyclerView.LayoutManager?&#10;Found:&#10;TopSmoothScroller" />
       <item value="箭头" />
       <item value="开关" />
       <item value="KAI" />
@@ -53,8 +55,6 @@
       <item value="Increasing the maximum heap size from 1280MB to 2048MB could make the IDE perform better, based on the available memory and your project size." />
       <item value="魔镜&#10;" />
       <item value="mo'jign" />
-      <item value="@param l Left position, relative to parent @param t Top position, relative to parent @param r Right position, relative to parent @param b Bottom position, relative to parent" />
-      <item value="报名&#10;" />
     </histories>
     <option name="languageScores">
       <map>
