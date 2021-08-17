@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="箭头" />
       <item value="开关" />
       <item value="KAI" />
       <item value="Receiver: Closure: () =&gt; Null" />
@@ -54,7 +55,6 @@
       <item value="mo'jign" />
       <item value="@param l Left position, relative to parent @param t Top position, relative to parent @param r Right position, relative to parent @param b Bottom position, relative to parent" />
       <item value="报名&#10;" />
-      <item value="体验官" />
     </histories>
     <option name="languageScores">
       <map>
