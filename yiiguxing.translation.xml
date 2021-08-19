@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Type is not directly supported by 'Parcelize'. Annotate the parameter type with '@RawValue' if you want it to be serialized using 'writeValue()'" />
       <item value="percentage" />
       <item value="total Bytes" />
       <item value="bytes Read" />
@@ -54,7 +55,6 @@
       <item value="Implementation of the {@link SnapHelper} supporting snapping in either vertical or horizontal orientation. &lt;p&gt; The implementation will snap the center of the target child view to the center of the attached {@link RecyclerView}. If you intend to change this behavior then override {@link SnapHelpercalculateDistanceToFinalSnap}." />
       <item value="calculate Distance To Final Snap" />
       <item value="translate" />
-      <item value="The width of this side of the border, in logical pixels. Setting width to 0.0 will result in a hairline border. This means that the border will have the width of one physical pixel. Also, hairline rendering takes shortcuts when the path overlaps a pixel more than once. This means that it will render faster than otherwise, but it might double-hit pixels, giving it a slightly darkerlighter result. To omit the border entirely, set the [style] to [BorderStyle.none]." />
     </histories>
     <option name="languageScores">
       <map>
