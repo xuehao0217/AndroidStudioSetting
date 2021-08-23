@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="过期" />
       <item value="使用&#10;" />
       <item value="可用" />
       <item value="过期&#10;" />
@@ -54,7 +55,6 @@
       <item value="推荐" />
       <item value="Installation did not succeed. The application could not be installed." />
       <item value="0802 17:11:35: Launching 'app' on HUAWEI HMA-AL00. Retry Installation did not succeed. The application could not be installed. List of apks: [0] 'UsersxuehaoAndroidStudioProjectsworkandroid_platformappbuildoutputsapkdebugapp-debug.apk' Installation failed due to: 'Invalid File: UsersxuehaoAndroidStudioProjectsworkandroid_platformappbuildoutputsapkdebugapp-debug.apk'" />
-      <item value="The following project options are deprecated and have been removed:" />
     </histories>
     <option name="languageScores">
       <map>
