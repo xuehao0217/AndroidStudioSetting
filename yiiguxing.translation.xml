@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="protocol" />
       <item value="尺寸&#10;" />
       <item value="chi" />
       <item value="过期" />
@@ -54,7 +55,6 @@
       <item value="拼团" />
       <item value="分层&#10;" />
       <item value="fen" />
-      <item value="推荐" />
     </histories>
     <option name="languageScores">
       <map>
