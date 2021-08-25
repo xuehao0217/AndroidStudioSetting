@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Ensure you have the repositories configured, otherwise add them:&#10;" />
+      <item value="Consuming the Module&#10;" />
       <item value="Warning: You are using these overridden dependencies: ! soyoung_common_widget 0.0.1 from git https:gitlab.sy.soyoung.comandroidfluttersoyoung_common_widget.git at e0749d" />
       <item value="Warning: You are using these overridden dependencies:" />
       <item value="protocol" />
@@ -53,8 +55,6 @@
       <item value="An exception occurred applying plugin request [id: 'com.android.application'] &gt; Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
       <item value="复购&#10;" />
       <item value="f" />
-      <item value="stack size 8192KB" />
-      <item value="拼团" />
     </histories>
     <option name="languageScores">
       <map>
