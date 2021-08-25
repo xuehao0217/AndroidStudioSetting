@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="No dependencies changed. 16 packages have newer versions incompatible with dependency constraints. Try `flutter pub outdated` for more information." />
+      <item value="Resolving dependencies.." />
       <item value="AndroidManifest.xml could not be found. Please check UsersxuehaoAndroidStudioProjectsdemoflutter_appsettingandroidAndroidManifest.xml for errors. No application found for TargetPlatform.android_arm64." />
       <item value="Ensure you have the repositories configured, otherwise add them:&#10;" />
       <item value="Consuming the Module&#10;" />
@@ -53,8 +55,6 @@
       <item value="bai" />
       <item value="JUMP URL" />
       <item value="android.view.InflateException: Binary XML file line 24 in com.youxiang.soyoungapp:layoutmake_up_report_activity: Could not inflate Behavior subclass com.youxiang.soyoungapp.utils.CustomBehavior" />
-      <item value="An exception occurred applying plugin request [id: 'com.android.application'] &gt; Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
-      <item value="复购&#10;" />
     </histories>
     <option name="languageScores">
       <map>
