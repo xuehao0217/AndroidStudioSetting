@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="remote: HTTP Basic: Access denied Authentication failed for 'https://gitlab.sy.soyoung.com/android/library.git/" />
       <item value="What went wrong: Execution failed for task ':app:mergeDebugNativeLibs'. &gt; Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Could not find com.example.untitled3:flutter_debug:1.0. Searched in the following locations:" />
       <item value="Duplicate class com.soyoung.component_widget.scrollNumberView.ScrollNumber found in modules" />
       <item value="No dependencies changed. 16 packages have newer versions incompatible with dependency constraints. Try `flutter pub outdated` for more information." />
@@ -54,7 +55,6 @@
       <item value="Unable to load class 'javax.xml.bind.JAXBException'. This is an unexpected error. Please file a bug containing the idea.log file." />
       <item value="Conversion of Char to Number is deprecated. Use Char.code property instead." />
       <item value="百" />
-      <item value="bai" />
     </histories>
     <option name="languageScores">
       <map>
