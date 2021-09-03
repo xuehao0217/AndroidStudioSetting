@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="邀请" />
+      <item value="y" />
+      <item value="yqo" />
       <item value="da" />
       <item value="Push failed remote: You are not allowed to push code to this project. unable to access 'https://gitlab.sy.soyoung.com/android/library.git/': The requested URL returned error: 403" />
       <item value="remote: HTTP Basic: Access denied Authentication failed for 'https://gitlab.sy.soyoung.com/android/library.git/" />
@@ -52,9 +55,6 @@
       <item value="Execution failed for task ':module_simulate:kaptGenerateStubsDebugKotlin'. &gt; Internal compiler error. See log for more details" />
       <item value="PENDING ACTION NONE" />
       <item value="after" />
-      <item value="小" />
-      <item value="Unable to load class 'javax.xml.bind.JAXBException'.&#10;&#10;This is an unexpected error. Please file a bug containing the idea.log file." />
-      <item value="Unable to load class 'javax.xml.bind.JAXBException'. This is an unexpected error. Please file a bug containing the idea.log file." />
     </histories>
     <option name="languageScores">
       <map>
