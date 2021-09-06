@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="缓存&#10;" />
       <item value="邀请" />
       <item value="y" />
       <item value="yqo" />
@@ -54,7 +55,6 @@
       <item value="What went wrong: Execution failed for task ':app:compileDebugKotlin'. &gt; Kotlin could not find the required JDK tools in the Java installation 'LibraryInternet Plug-InsJavaAppletPlugin.pluginContentsHome' used by Gradle. Make sure Gradle is running on a JDK, not JRE." />
       <item value="Execution failed for task ':module_simulate:kaptGenerateStubsDebugKotlin'. &gt; Internal compiler error. See log for more details" />
       <item value="PENDING ACTION NONE" />
-      <item value="after" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630306471222" />
+    <option name="lastTrimTime" value="1630912181093" />
   </component>
 </application>
