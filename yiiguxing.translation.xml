@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="(server)' ~ Channel is unrecoverably broken and will be disposed!" />
+      <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="Called when the hidden state (as returned by isHidden() of the fragment has changed. Fragments start out not hidden; this will be called whenever the fragment changes state from that.&#10;Params:&#10;hidden – True if the fragment is now hidden, false otherwise." />
       <item value="com.networking.error.ANError: java.net.UnknownHostException: Unable to resolve host &quot;devapi64.sy.soyoung.com&quot;: No address associated with hostname" />
       <item value="缓存&#10;" />
@@ -53,8 +55,6 @@
       <item value="Try updating or re-installing Android Studio." />
       <item value="Kotlin could not find the required JDK tools in the Java installation 'LibraryInternet Plug-InsJavaAppletPlugin.pluginContentsHome' used by Gradle. Make sure Gradle is running on a JDK, not JRE." />
       <item value="74130925 添加合并代码 Your local changes would be overwritten by revert. Commit your changes or stash them to proceed." />
-      <item value="The application could not be installed." />
-      <item value="What went wrong: Execution failed for task ':app:compileDebugKotlin'. &gt; Kotlin could not find the required JDK tools in the Java installation 'LibraryInternet Plug-InsJavaAppletPlugin.pluginContentsHome' used by Gradle. Make sure Gradle is running on a JDK, not JRE." />
     </histories>
     <option name="languageScores">
       <map>
