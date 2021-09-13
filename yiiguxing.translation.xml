@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Sets whether this bottom sheet should skip the collapsed state when it is being hidden after it is expanded once. Setting this to true has no effect unless the sheet is hideable.&#10;Params:&#10;skipCollapsed – True if the bottom sheet should skip the collapsed state." />
       <item value="(server)' ~ Channel is unrecoverably broken and will be disposed!" />
       <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="Called when the hidden state (as returned by isHidden() of the fragment has changed. Fragments start out not hidden; this will be called whenever the fragment changes state from that.&#10;Params:&#10;hidden – True if the fragment is now hidden, false otherwise." />
@@ -54,7 +55,6 @@
       <item value="Because coverage &gt;=1.0.3 depends on vm_service &gt;=6.1.0 &lt;8.0.0 and coverage &gt;=1.0.0 &lt;1.0.3 depends on vm_service ^6.1.0, coverage &gt;=1.0.0 requires vm_service &gt;=6.1.0 &lt;8.0.0. And because every version of flutter_driver from sdk depends on vm_service 6.0.1-nullsafety.1 and test &gt;=1.16.6 depends on coverage ^1.0.1, flutter_driver from sdk is incompatible with test &gt;=1.16.6. So, because flutter_deer depends on both flutter_driver any from sdk and test ^1.16.8, version solving failed. pub get failed (1; So, because flutter_deer depends on both flutter_driver any from sdk and test ^1.16.8, version solving failed.)" />
       <item value="Try updating or re-installing Android Studio." />
       <item value="Kotlin could not find the required JDK tools in the Java installation 'LibraryInternet Plug-InsJavaAppletPlugin.pluginContentsHome' used by Gradle. Make sure Gradle is running on a JDK, not JRE." />
-      <item value="74130925 添加合并代码 Your local changes would be overwritten by revert. Commit your changes or stash them to proceed." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630912181093" />
+    <option name="lastTrimTime" value="1631501378388" />
   </component>
 </application>
