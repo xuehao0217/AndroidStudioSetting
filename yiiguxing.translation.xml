@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="trace" />
       <item value="This feature requires ASM6" />
       <item value="&gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find gradle.plugin.cn.cxzheng.methodTracePlugin:tracemanplugin:1.0.4. Searched in the following locations:" />
       <item value="&#10;the absolute path to application-specific directory. May return null if shared storage is not currently available." />
@@ -54,7 +55,6 @@
       <item value="Attempt to read from null array" />
       <item value="Row's children must not contain any null values, but a null value was found at index 1" />
       <item value="The color to use for the scrim that obscures primary content while a drawer is open. By default, the color is [Colors.black54]" />
-      <item value="Your Flutter application is created using an older version of the Android embedding. It's being deprecated in favor of Android embedding v2. Follow the steps at" />
     </histories>
     <option name="languageScores">
       <map>
