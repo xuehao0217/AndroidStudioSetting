@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="&gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find gradle.plugin.cn.cxzheng.methodTracePlugin:tracemanplugin:1.0.4. Searched in the following locations:" />
       <item value="&#10;the absolute path to application-specific directory. May return null if shared storage is not currently available." />
       <item value="Sets whether this bottom sheet should skip the collapsed state when it is being hidden after it is expanded once. Setting this to true has no effect unless the sheet is hideable.&#10;Params:&#10;skipCollapsed – True if the bottom sheet should skip the collapsed state." />
       <item value="(server)' ~ Channel is unrecoverably broken and will be disposed!" />
@@ -54,7 +55,6 @@
       <item value="The color to use for the scrim that obscures primary content while a drawer is open. By default, the color is [Colors.black54]" />
       <item value="Your Flutter application is created using an older version of the Android embedding. It's being deprecated in favor of Android embedding v2. Follow the steps at" />
       <item value="Because coverage &gt;=1.0.3 depends on vm_service &gt;=6.1.0 &lt;8.0.0 and coverage &gt;=1.0.0 &lt;1.0.3 depends on vm_service ^6.1.0, coverage &gt;=1.0.0 requires vm_service &gt;=6.1.0 &lt;8.0.0. And because every version of flutter_driver from sdk depends on vm_service 6.0.1-nullsafety.1 and test &gt;=1.16.6 depends on coverage ^1.0.1, flutter_driver from sdk is incompatible with test &gt;=1.16.6. So, because flutter_deer depends on both flutter_driver any from sdk and test ^1.16.8, version solving failed. pub get failed (1; So, because flutter_deer depends on both flutter_driver any from sdk and test ^1.16.8, version solving failed.)" />
-      <item value="Try updating or re-installing Android Studio." />
     </histories>
     <option name="languageScores">
       <map>
