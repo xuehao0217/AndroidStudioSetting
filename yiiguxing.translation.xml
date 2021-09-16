@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="cale X" />
       <item value="补卡" />
       <item value="补" />
       <item value="签到&#10;" />
@@ -54,7 +55,6 @@
       <item value="箭头" />
       <item value="开关" />
       <item value="KAI" />
-      <item value="Receiver: Closure: () =&gt; Null" />
     </histories>
     <option name="languageScores">
       <map>
