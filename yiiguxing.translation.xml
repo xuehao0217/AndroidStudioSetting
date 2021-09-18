@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="补签" />
+      <item value="bu'qian" />
+      <item value="bu" />
       <item value="cale X" />
       <item value="补卡" />
       <item value="补" />
@@ -52,9 +55,6 @@
       <item value="is Complete" />
       <item value="Type mismatch: inferred type is TopSmoothScroller but RecyclerView.LayoutManager? was expected" />
       <item value="Type mismatch.&#10;Required:&#10;RecyclerView.LayoutManager?&#10;Found:&#10;TopSmoothScroller" />
-      <item value="箭头" />
-      <item value="开关" />
-      <item value="KAI" />
     </histories>
     <option name="languageScores">
       <map>
