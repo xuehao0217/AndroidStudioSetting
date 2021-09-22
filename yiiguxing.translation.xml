@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Invalid target position" />
       <item value="extracted" />
       <item value="补签" />
       <item value="bu'qian" />
@@ -54,7 +55,6 @@
       <item value="total Bytes" />
       <item value="bytes Read" />
       <item value="is Complete" />
-      <item value="Type mismatch: inferred type is TopSmoothScroller but RecyclerView.LayoutManager? was expected" />
     </histories>
     <option name="languageScores">
       <map>
