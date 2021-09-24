@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Publish Diary Result Model" />
       <item value="Stratification" />
       <item value="Invalid target position" />
       <item value="extracted" />
@@ -54,7 +55,6 @@
       <item value="Type is not directly supported by 'Parcelize'. Annotate the parameter type with '@RawValue' if you want it to be serialized using 'writeValue()'" />
       <item value="percentage" />
       <item value="total Bytes" />
-      <item value="bytes Read" />
     </histories>
     <option name="languageScores">
       <map>
