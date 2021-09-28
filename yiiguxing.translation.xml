@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="还" />
       <item value="弥补&#10;" />
       <item value="mi" />
       <item value="Publish Diary Result Model" />
@@ -54,12 +55,11 @@
       <item value="可用&#10;" />
       <item value="Ad Expire" />
       <item value="com.networking.error.ANError: com.networking.error.ANError: java.io.FileNotFoundException: storageemulated0Androiddatacom.youxiang.soyoungappcachespalshstorageemulated0Androiddatacom.youxiang.soyoungappcachespalshhttps:videosy.soyoung.combd33dd0b9a085b44375c46cb98c23b02.mp4.mp4: open failed: ENOENT (No such file or directory)" />
-      <item value="Type is not directly supported by 'Parcelize'. Annotate the parameter type with '@RawValue' if you want it to be serialized using 'writeValue()'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
