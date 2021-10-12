@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="middle" />
       <item value="Invocation Target Exception" />
       <item value="还" />
       <item value="弥补&#10;" />
@@ -54,7 +55,6 @@
       <item value="过期&#10;" />
       <item value="guo" />
       <item value="可用&#10;" />
-      <item value="Ad Expire" />
     </histories>
     <option name="languageScores">
       <map>
