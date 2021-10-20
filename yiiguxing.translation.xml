@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="java.lang.reflect.Invocation Target Exception" />
+      <item value="描述" />
+      <item value="Tab" />
       <item value="联动" />
       <item value="模拟&#10;" />
       <item value="模拟整形&#10;" />
@@ -52,14 +55,11 @@
       <item value="AndroidManifest.xml could not be found. Please check UsersxuehaoAndroidStudioProjectsdemoflutter_appsettingandroidAndroidManifest.xml for errors. No application found for TargetPlatform.android_arm64." />
       <item value="Ensure you have the repositories configured, otherwise add them:&#10;" />
       <item value="Consuming the Module&#10;" />
-      <item value="Warning: You are using these overridden dependencies: ! soyoung_common_widget 0.0.1 from git https:gitlab.sy.soyoung.comandroidfluttersoyoung_common_widget.git at e0749d" />
-      <item value="Warning: You are using these overridden dependencies:" />
-      <item value="protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
