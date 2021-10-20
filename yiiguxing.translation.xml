@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="联动" />
       <item value="模拟&#10;" />
       <item value="模拟整形&#10;" />
       <item value="模拟" />
@@ -54,12 +55,11 @@
       <item value="Warning: You are using these overridden dependencies: ! soyoung_common_widget 0.0.1 from git https:gitlab.sy.soyoung.comandroidfluttersoyoung_common_widget.git at e0749d" />
       <item value="Warning: You are using these overridden dependencies:" />
       <item value="protocol" />
-      <item value="尺寸&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
