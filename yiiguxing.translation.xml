@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="java 8" />
       <item value="Runs the given block on a CoroutineDispatcher that executes the block on the main thread and suspends the execution unless the Lifecycle's state is at least minState. If the Lifecycle moves to a lesser state while the block is running, the block will be suspended until the Lifecycle reaches to a state greater or equal to minState. Note that this won't effect any sub coroutine if they use a different CoroutineDispatcher. However, the block will not resume execution when the sub coroutine finishes unless the Lifecycle is at least in minState. If the Lifecycle is destroyed while the block is suspended, the block will be cancelled which will also cancel any child coroutine launched inside the block. If you have a try finally block in your code, the finally might run after the Lifecycle moves outside the desired state. It is recommended to check the Lifecycle.getCurrentState before accessing the UI. Similarly, if you have a catch statement that might catch CancellationException, you should check the Lifecycle.getCurrentState before accessing the UI. See the sample below for more details." />
       <item value="Runs the given block when the LifecycleOwner's Lifecycle is at least in Lifecycle.State.RESUMED state. See Also: Lifecycle.whenStateAtLeast" />
       <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution &gt; java.lang.reflect.InvocationTargetException (no error message)" />
@@ -54,7 +55,6 @@
       <item value="remote: HTTP Basic: Access denied Authentication failed for 'https://gitlab.sy.soyoung.com/android/library.git/" />
       <item value="What went wrong: Execution failed for task ':app:mergeDebugNativeLibs'. &gt; Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Could not find com.example.untitled3:flutter_debug:1.0. Searched in the following locations:" />
       <item value="Duplicate class com.soyoung.component_widget.scrollNumberView.ScrollNumber found in modules" />
-      <item value="No dependencies changed. 16 packages have newer versions incompatible with dependency constraints. Try `flutter pub outdated` for more information." />
     </histories>
     <option name="languageScores">
       <map>
