@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="hint: its remote counterpart. Integrate the remote changes (e.g. Done hint: 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
       <item value="failed to push some refs to" />
       <item value="You are not allowed to push code to protected branches on this project." />
       <item value="Return whether the notifications enabled." />
@@ -54,18 +55,17 @@
       <item value="Called when the hidden state (as returned by isHidden() of the fragment has changed. Fragments start out not hidden; this will be called whenever the fragment changes state from that.&#10;Params:&#10;hidden – True if the fragment is now hidden, false otherwise." />
       <item value="com.networking.error.ANError: java.net.UnknownHostException: Unable to resolve host &quot;devapi64.sy.soyoung.com&quot;: No address associated with hostname" />
       <item value="邀请" />
-      <item value="y" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636511613493" />
+    <option name="lastTrimTime" value="1637049190887" />
   </component>
 </application>
