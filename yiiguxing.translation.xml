@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="49 actionable tasks: 1 executed, 48 up-to-date 3:07:58 下午: Task execution finished 'uploadArchives" />
       <item value="赞" />
       <item value="zan" />
       <item value="Could not find com.soyoung.x.view:evaluation:0.0.0.7. Searched in the following locations:" />
@@ -54,12 +55,11 @@
       <item value="&#10;the absolute path to application-specific directory. May return null if shared storage is not currently available." />
       <item value="Sets whether this bottom sheet should skip the collapsed state when it is being hidden after it is expanded once. Setting this to true has no effect unless the sheet is hideable.&#10;Params:&#10;skipCollapsed – True if the bottom sheet should skip the collapsed state." />
       <item value="(server)' ~ Channel is unrecoverably broken and will be disposed!" />
-      <item value="Channel is unrecoverably broken and will be disposed!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
