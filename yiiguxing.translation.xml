@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="459" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="choose" />
       <item value="评价" />
       <item value="o'ing'jia" />
       <item value="49 actionable tasks: 1 executed, 48 up-to-date 3:07:58 下午: Task execution finished 'uploadArchives" />
@@ -54,12 +55,11 @@
       <item value="trace" />
       <item value="This feature requires ASM6" />
       <item value="&gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find gradle.plugin.cn.cxzheng.methodTracePlugin:tracemanplugin:1.0.4. Searched in the following locations:" />
-      <item value="&#10;the absolute path to application-specific directory. May return null if shared storage is not currently available." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="266" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
