@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Return code is: 401, ReasonPhrase: Unauthorized." />
+      <item value="Unauthorized" />
+      <item value="Unable to destroy activity {com.youxiang.soyoungappcom.soyoung.module_acn.c.activity.ACNEvaluationEndTransActivity}: java.lang.RuntimeException: Failed to call observer method" />
+      <item value="score" />
+      <item value="sco" />
+      <item value="s'c" />
+      <item value="s" />
+      <item value="分数" />
+      <item value="分" />
+      <item value="fen" />
       <item value="Exception In Initializer Error" />
       <item value="边距" />
       <item value="choose" />
@@ -45,21 +55,11 @@
       <item value="弥补&#10;" />
       <item value="mi" />
       <item value="Publish Diary Result Model" />
-      <item value="Stratification" />
-      <item value="extracted" />
-      <item value="补签" />
-      <item value="bu'qian" />
-      <item value="bu" />
-      <item value="cale X" />
-      <item value="补卡" />
-      <item value="补" />
-      <item value="签到&#10;" />
-      <item value="trace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
