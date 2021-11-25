@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Creates a vertical GridLayoutManager Params: context – Current context, will be used to access resources. spanCount – The number of columns in the grid" />
       <item value="满意" />
       <item value="Return code is: 401, ReasonPhrase: Unauthorized." />
       <item value="Unauthorized" />
@@ -54,12 +55,11 @@
       <item value="Invocation Target Exception" />
       <item value="还" />
       <item value="弥补&#10;" />
-      <item value="mi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
