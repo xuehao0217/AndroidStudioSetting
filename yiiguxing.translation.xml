@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="init" />
       <item value="Updates were rejected because the tip of your current branch is behind" />
       <item value="Return code is: 401, ReasonPhrase: Unauthorized." />
       <item value="Creates a vertical GridLayoutManager Params: context – Current context, will be used to access resources. spanCount – The number of columns in the grid" />
@@ -54,7 +55,6 @@
       <item value="handle To Main" />
       <item value="middle" />
       <item value="Invocation Target Exception" />
-      <item value="还" />
     </histories>
     <option name="languageScores">
       <map>
