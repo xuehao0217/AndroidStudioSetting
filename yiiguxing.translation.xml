@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="getRecommendEffectList" />
       <item value="黑色" />
       <item value="黑" />
       <item value="低质量&#10;" />
@@ -54,11 +55,10 @@
       <item value="A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution &gt; java.lang.reflect.InvocationTargetException (no error message)" />
       <item value="when State At Least" />
       <item value="Invalid target position" />
-      <item value="java.lang.reflect.Invocation Target Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
+        <entry key="CHINESE" value="346" />
         <entry key="ENGLISH" value="346" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
