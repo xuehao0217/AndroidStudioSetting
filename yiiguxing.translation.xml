@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="返回同意不同意" />
       <item value="Second child is cancelled because supervisor is cancelled" />
       <item value="First child is cancelled: {firstChild.isCancelled}, but second one is still active" />
       <item value="he first child finished its non cancellable block" />
@@ -54,11 +55,10 @@
       <item value="49 actionable tasks: 1 executed, 48 up-to-date 3:07:58 下午: Task execution finished 'uploadArchives" />
       <item value="赞" />
       <item value="zan" />
-      <item value="Could not find com.soyoung.x.view:evaluation:0.0.0.7. Searched in the following locations:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
+        <entry key="CHINESE" value="374" />
         <entry key="ENGLISH" value="374" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
