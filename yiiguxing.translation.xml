@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="he first child finished its non cancellable block" />
+      <item value="Children are cancelled, but exception is not handled until all children terminate" />
       <item value="Suspend function 'emit' should be called only from a coroutine or another suspend function" />
       <item value="Response" />
       <item value="解析" />
@@ -53,13 +55,11 @@
       <item value="Could not find com.soyoung.x.view:evaluation:0.0.0.7. Searched in the following locations:" />
       <item value="hint: its remote counterpart. Integrate the remote changes (e.g. Done hint: 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
       <item value="failed to push some refs to" />
-      <item value="You are not allowed to push code to protected branches on this project." />
-      <item value="Return whether the notifications enabled." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="ENGLISH" value="372" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
