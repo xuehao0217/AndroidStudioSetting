@@ -4,25 +4,7 @@
       <list>
         <BackgroundConfiguration>
           <option name="fileNames">
-            <array>
-              <option value="$USER_HOME$/Downloads/BenagilCave_ZH-CN0480408879_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/BlackSun_ZH-CN0889682619_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/FallAssiniboine_ZH-CN8878734090_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/HuayMaeKhamin_ZH-CN2718383027_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/IrohazakaRoad_ZH-CN9151363864_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/IvishakRiver_ZH-CN1464216156_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/Kamikouchi_ZH-CN5677161294_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/LakeSchreckseeBY_ZH-CN0786328970_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/LammasDay_ZH-CN4229387191_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/MooseVelvet_ZH-CN5891459899_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/Neowise_ZH-CN1308687945_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/NohsngithiangFalls_ZH-CN1819466830_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/RainbowMountain_ZH-CN9670076890_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/SouthCoast_ZH-CN9438294266_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/SWColorado_ZH-CN2381176407_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/VermilionLakes_ZH-CN3446257764_1920x1080.jpg" />
-              <option value="$USER_HOME$/Downloads/Whakarewarewa_ZH-CN4957778498_1920x1080.jpg" />
-            </array>
+            <array />
           </option>
           <option name="opacity" value="0.15" />
           <option name="position" value="4" />
