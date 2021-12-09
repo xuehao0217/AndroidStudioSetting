@@ -1,0 +1,18 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="$USER_HOME$/Downloads/1626165488_100567.jpeg" />
+            </array>
+          </option>
+          <option name="opacity" value="0.2" />
+          <option name="shrink" value="true" />
+          <option name="shrinkValue" value="100" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
