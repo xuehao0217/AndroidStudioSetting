@@ -6,11 +6,14 @@
           <option name="fileNames">
             <array>
               <option value="$USER_HOME$/Downloads/1626165488_100567.jpeg" />
+              <option value="$USER_HOME$/Downloads/202103192059223132.jpeg" />
             </array>
           </option>
-          <option name="opacity" value="0.2" />
+          <option name="position" value="4" />
+          <option name="random" value="true" />
           <option name="shrink" value="true" />
           <option name="shrinkValue" value="100" />
+          <option name="slideshow" value="true" />
         </BackgroundConfiguration>
       </list>
     </option>
