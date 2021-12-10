@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Sets the number of spans for the layout. This will invalidate all of the span assignments for Views. Calling this method will automatically result in a new layout request unless the spanCount parameter is equal to current span count. Params: spanCount – Number of spans to layou" />
       <item value="is Accept Privacy" />
       <item value="返回同意不同意" />
       <item value="Second child is cancelled because supervisor is cancelled" />
@@ -54,12 +55,11 @@
       <item value="评价" />
       <item value="o'ing'jia" />
       <item value="49 actionable tasks: 1 executed, 48 up-to-date 3:07:58 下午: Task execution finished 'uploadArchives" />
-      <item value="赞" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
