@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="as Reversed" />
       <item value="高亮" />
       <item value="gao'l" />
       <item value="just&#10;" />
@@ -54,7 +55,6 @@
       <item value="s" />
       <item value="分数" />
       <item value="分" />
-      <item value="fen" />
     </histories>
     <option name="languageScores">
       <map>
