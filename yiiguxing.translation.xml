@@ -5,10 +5,13 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="已经存在" />
+      <item value="已" />
+      <item value="已经xun" />
+      <item value="y" />
       <item value="打招呼" />
       <item value="da招呼" />
       <item value="大招呼" />
-      <item value="已经存在" />
       <item value="已经存在i" />
       <item value="as Reversed" />
       <item value="高亮" />
@@ -52,20 +55,17 @@
       <item value="Return code is: 401, ReasonPhrase: Unauthorized." />
       <item value="Creates a vertical GridLayoutManager Params: context – Current context, will be used to access resources. spanCount – The number of columns in the grid" />
       <item value="满意" />
-      <item value="Unauthorized" />
-      <item value="Unable to destroy activity {com.youxiang.soyoungappcom.soyoung.module_acn.c.activity.ACNEvaluationEndTransActivity}: java.lang.RuntimeException: Failed to call observer method" />
-      <item value="score" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="439" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639379284224" />
+    <option name="lastTrimTime" value="1639966727649" />
   </component>
 </application>
