@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="变美诉求" />
+      <item value="变美诉求'&#10;" />
       <item value="Stub!" />
       <item value="bytes To Hex" />
       <item value="hex To Bytes" />
@@ -53,13 +55,11 @@
       <item value="Sets the number of spans for the layout. This will invalidate all of the span assignments for Views. Calling this method will automatically result in a new layout request unless the spanCount parameter is equal to current span count. Params: spanCount – Number of spans to layou" />
       <item value="is Accept Privacy" />
       <item value="返回同意不同意" />
-      <item value="Second child is cancelled because supervisor is cancelled" />
-      <item value="First child is cancelled: {firstChild.isCancelled}, but second one is still active" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="507" />
+        <entry key="ENGLISH" value="508" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
