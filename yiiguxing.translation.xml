@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="加密" />
+      <item value="ji" />
+      <item value="fun" />
+      <item value="加密&#10;" />
       <item value="解密" />
       <item value="jio" />
       <item value="problem occurred evaluating project ':app'. &gt; Could not find method kapt() for arguments [com.github.bumptech.glide:compiler:4.12.0] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
@@ -51,15 +55,11 @@
       <item value="Children are cancelled, but exception is not handled until all children terminate" />
       <item value="Suspend function 'emit' should be called only from a coroutine or another suspend function" />
       <item value="Response" />
-      <item value="解析" />
-      <item value="Suspends the current coroutine until the channel is either closed or cancelled and invokes the given block before resuming the coroutine. This suspending function is cancellable. There is a prompt cancellation guarantee. If the job was cancelled while this function was suspended, it will not resume successfully. See suspendCancellableCoroutine documentation for low-level details. Note that when the producer channel is cancelled, this function resumes with a cancellation exception. Therefore, in case of cancellation, no code after the call to this function will be executed. That's why this function takes a lambda parameter. Example of usage: val callbackEventsStream = produce { val disposable = registerChannelInCallback(channel) awaitClose { disposable.dispose() } }" />
-      <item value="Applying flowOn to SharedFlow has no effect. See the SharedFlow documentation on Operator Fusion." />
-      <item value="Atomically compares the current value with expect and sets it to update if it is equal to expect. The result is true if the value was set to update and false otherwise. This function use a regular comparison using Any.equals. If both expect and update are equal to the current value, this function returns true, but it does not actually change the reference that is stored in the value. This method is thread-safe and can be safely invoked from concurrent coroutines without external synchronization." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="495" />
+        <entry key="ENGLISH" value="496" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
