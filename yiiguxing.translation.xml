@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="私信" />
+      <item value="医" />
+      <item value="yi" />
+      <item value="yi'l" />
+      <item value="yi's" />
+      <item value="私信&#10;" />
       <item value="变美诉求" />
       <item value="变美诉求'&#10;" />
       <item value="Stub!" />
@@ -49,17 +55,11 @@
       <item value="高亮" />
       <item value="gao'l" />
       <item value="just&#10;" />
-      <item value="选中" />
-      <item value="Execution failed for task ':library_wxsub:kaptDebugKotlin'. &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptWithoutKotlincTaskKaptExecutionWorkAction &gt; java.lang.reflect.InvocationTargetException (no error message)" />
-      <item value="标签" />
-      <item value="Sets the number of spans for the layout. This will invalidate all of the span assignments for Views. Calling this method will automatically result in a new layout request unless the spanCount parameter is equal to current span count. Params: spanCount – Number of spans to layou" />
-      <item value="is Accept Privacy" />
-      <item value="返回同意不同意" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
