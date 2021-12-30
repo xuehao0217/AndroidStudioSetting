@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="is defined multiple" />
       <item value="secret Key" />
       <item value="ECB mode cannot use IV" />
       <item value="encrypt AES 2 Hex String" />
@@ -54,12 +55,11 @@
       <item value="y" />
       <item value="打招呼" />
       <item value="da招呼" />
-      <item value="大招呼" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
