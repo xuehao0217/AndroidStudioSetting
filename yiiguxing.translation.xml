@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Create a file if it doesn't exist, otherwise delete old file before creating." />
       <item value="Cannot resolve symbol 'getImgEncryptFile'" />
       <item value="undo" />
       <item value="God bless me only" />
@@ -54,12 +55,11 @@
       <item value="java.lang.reflect.Invocation Target Exception" />
       <item value=" Only the original thread that created a view hierarchy can touch its views" />
       <item value="android.view.ViewRootImplCalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views." />
-      <item value="are you ok?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="608" />
+        <entry key="ENGLISH" value="609" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
