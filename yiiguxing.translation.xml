@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="滑动" />
       <item value="Create a file if it doesn't exist, otherwise delete old file before creating." />
       <item value="Cannot resolve symbol 'getImgEncryptFile'" />
       <item value="undo" />
@@ -54,12 +55,11 @@
       <item value="problem occurred evaluating project ':app'. &gt; Could not find method kapt() for arguments [com.github.bumptech.glide:compiler:4.12.0] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
       <item value="java.lang.reflect.Invocation Target Exception" />
       <item value=" Only the original thread that created a view hierarchy can touch its views" />
-      <item value="android.view.ViewRootImplCalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="609" />
+        <entry key="CHINESE" value="617" />
+        <entry key="ENGLISH" value="616" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
