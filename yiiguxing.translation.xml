@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="Initial Position" />
+      <item value="* Animate the list so that the first view is back to its initial position.&#10;     *&#10;     * @param endAction Action to execute when the animation is done." />
+      <item value="Animate the list so that the first view is back to its initial position. @param endAction Action to execute when the animation is done. @hide" />
+      <item value="Middle" />
+      <item value="animate To Middle" />
       <item value="Encrypt" />
       <item value="GitLab: You are not allowed to push code to protected branches on this project." />
       <item value="refsheads838_compliance:refsheads838_compliance [remote rejected] (pre-receive hook declined)" />
@@ -50,16 +55,11 @@
       <item value="You are not allowed to push code to protected branches on this project." />
       <item value="was rejected by remote" />
       <item value="is defined multiple" />
-      <item value="secret Key" />
-      <item value="ECB mode cannot use IV" />
-      <item value="encrypt AES 2 Hex String" />
-      <item value="transformation – The name of the transformation, e.g., DESCBCPKCS5Padding." />
-      <item value="Return the bytes of AES encryption. Params: data – The data. key – The key. transformation – The name of the transformation, e.g., DESCBCPKCS5Padding. iv – The buffer with the IV. The contents of the buffer are copied to protect against subsequent modification. Returns: the bytes of AES encryption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="667" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="668" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
