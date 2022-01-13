@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="is defined multiple times" />
       <item value="Could not resolve host: gitlab.sy.soyoung.com" />
       <item value="私" />
       <item value="si" />
@@ -54,12 +55,11 @@
       <item value="overrides nothing" />
       <item value="'setData' overrides nothing" />
       <item value="to Lower Case" />
-      <item value="the hex string of HmacSHA256 encryption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="701" />
-        <entry key="ENGLISH" value="702" />
+        <entry key="CHINESE" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
       </map>
