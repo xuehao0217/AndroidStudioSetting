@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="流程" />
+      <item value="检测" />
+      <item value="流程&#10;" />
+      <item value="c'liu" />
+      <item value="Dect" />
       <item value="fading Edge" />
       <item value="中转" />
       <item value="zhogn" />
@@ -50,18 +55,14 @@
       <item value="Cannot resolve symbol 'getImgEncryptFile'" />
       <item value="undo" />
       <item value="God bless me only" />
-      <item value="Mode" />
-      <item value="base 64 Decode" />
-      <item value="encrypt" />
-      <item value="加密" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="715" />
-        <entry key="ENGLISH" value="714" />
+        <entry key="CHINESE" value="734" />
+        <entry key="ENGLISH" value="733" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
