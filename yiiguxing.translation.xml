@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="透明" />
+      <item value="top" />
+      <item value="topu'ni" />
+      <item value="you'ming" />
       <item value="中转" />
       <item value="中zhuan" />
       <item value="zho" />
@@ -51,15 +55,11 @@
       <item value="子" />
       <item value="zi" />
       <item value="字" />
-      <item value="zi'se" />
-      <item value="滑动" />
-      <item value="Create a file if it doesn't exist, otherwise delete old file before creating." />
-      <item value="Cannot resolve symbol 'getImgEncryptFile'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="739" />
+        <entry key="CHINESE" value="768" />
+        <entry key="ENGLISH" value="767" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
