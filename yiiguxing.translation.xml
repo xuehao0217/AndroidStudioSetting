@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="GitLab: You are not allowed to push code to protected branches on this project." />
+      <item value="refsheadsrelease:refsheadsrelease [remote rejected] (pre-receive hook declined)" />
       <item value="Shadow View" />
       <item value="透明" />
       <item value="top" />
@@ -39,7 +41,6 @@
       <item value="Middle" />
       <item value="animate To Middle" />
       <item value="Encrypt" />
-      <item value="GitLab: You are not allowed to push code to protected branches on this project." />
       <item value="refsheads838_compliance:refsheads838_compliance [remote rejected] (pre-receive hook declined)" />
       <item value="上报&#10;" />
       <item value="sh'n" />
@@ -54,12 +55,11 @@
       <item value="Cannot convert a null value to an object of type Dependency." />
       <item value="子色" />
       <item value="子" />
-      <item value="zi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="768" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="CHINESE" value="769" />
+        <entry key="ENGLISH" value="770" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
