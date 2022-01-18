@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="435" />
     <option name="newTranslationDialogY" value="-655" />
     <histories>
+      <item value="bridge Action" />
       <item value="GitLab: You are not allowed to push code to protected branches on this project." />
       <item value="refsheadsrelease:refsheadsrelease [remote rejected] (pre-receive hook declined)" />
       <item value="Shadow View" />
@@ -54,7 +55,6 @@
       <item value="java.net.ProtocolException: expected 564228 bytes but received" />
       <item value="Cannot convert a null value to an object of type Dependency." />
       <item value="子色" />
-      <item value="子" />
     </histories>
     <option name="languageScores">
       <map>
