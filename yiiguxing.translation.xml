@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="295" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="EventQueue.isDispatchThread()=false Toolkit.getEventQueue()=com.intellij.ide.IdeEventQueue@74db07e5 Current thread: Thread[ApplicationImpl pooled thread 303,4,Idea Thread Group] 1882944258 Write thread (volatile): Thread[AWT-EventQueue-0,6,Idea Thread Group] 1270922692com.intellij.openapi.diagnostic.Attachment@2cdbd526" />
       <item value="Execution failed for task ':app:mergeDebugNativeLibs'. &gt; A failure occurred while executing com.android.build.gradle.internal.tasks.WorkersActionFacade &gt; More than one file was found with OS independent path 'libarmeabi-v7alibfmod.so'. If you are using jniLibs and CMake IMPORTED targets, see" />
       <item value="class com.aserbao.androidcustomcamera.blocks.atestcases.EncodeDecodeTest, unresolved supertypes: AndroidTestCase" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
@@ -54,12 +55,11 @@
       <item value="* Animate the list so that the first view is back to its initial position.&#10;     *&#10;     * @param endAction Action to execute when the animation is done." />
       <item value="Animate the list so that the first view is back to its initial position. @param endAction Action to execute when the animation is done. @hide" />
       <item value="Middle" />
-      <item value="animate To Middle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="792" />
+        <entry key="CHINESE" value="792" />
+        <entry key="ENGLISH" value="793" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
