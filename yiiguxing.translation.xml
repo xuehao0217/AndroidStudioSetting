@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="横" />
+      <item value="heng" />
+      <item value="HENG" />
       <item value="This type is final, so it cannot be inherited from" />
       <item value="EventQueue.isDispatchThread()=false Toolkit.getEventQueue()=com.intellij.ide.IdeEventQueue@74db07e5 Current thread: Thread[ApplicationImpl pooled thread 303,4,Idea Thread Group] 1882944258 Write thread (volatile): Thread[AWT-EventQueue-0,6,Idea Thread Group] 1270922692com.intellij.openapi.diagnostic.Attachment@2cdbd526" />
       <item value="Execution failed for task ':app:mergeDebugNativeLibs'. &gt; A failure occurred while executing com.android.build.gradle.internal.tasks.WorkersActionFacade &gt; More than one file was found with OS independent path 'libarmeabi-v7alibfmod.so'. If you are using jniLibs and CMake IMPORTED targets, see" />
@@ -53,14 +56,11 @@
       <item value="Action to execute when the animation is done." />
       <item value="   * Returns top of the central {@code View} in the list when such view is fully centered.&#10;     * &lt;p/&gt;&#10;     * This is a more or a less a static value that you can use to align other views with the&#10;     * central one.&#10;     */" />
       <item value="getCentralViewTop" />
-      <item value="Initial Position" />
-      <item value="* Animate the list so that the first view is back to its initial position.&#10;     *&#10;     * @param endAction Action to execute when the animation is done." />
-      <item value="Animate the list so that the first view is back to its initial position. @param endAction Action to execute when the animation is done. @hide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="793" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="CHINESE" value="805" />
+        <entry key="ENGLISH" value="805" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
