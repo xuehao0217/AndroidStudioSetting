@@ -4,8 +4,8 @@
     <option name="newTranslationDialogWidth" value="645" />
     <option name="newTranslationDialogX" value="295" />
     <option name="newTranslationDialogY" value="286" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="搜索" />
       <item value="longitude" />
       <item value="The bottom sheet is hidden." />
       <item value="The bottom sheet is collapsed." />
@@ -55,12 +55,11 @@
       <item value="私" />
       <item value="si" />
       <item value="信息&#10;" />
-      <item value="信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="817" />
-        <entry key="ENGLISH" value="818" />
+        <entry key="CHINESE" value="823" />
+        <entry key="ENGLISH" value="824" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
