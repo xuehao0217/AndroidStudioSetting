@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot access 'android.viewbinding.ViewBinding' which is a supertype of 'com.youxiang.soyoungapp.module_face.databinding.LayoutAiMainResultEyesBrowBinding'. Check your module classpath for missing or conflicting dependencies" />
       <item value="interrogation" />
       <item value="搜索" />
       <item value="longitude" />
@@ -55,11 +56,10 @@
       <item value="is defined multiple times" />
       <item value="Could not resolve host: gitlab.sy.soyoung.com" />
       <item value="私" />
-      <item value="si" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="826" />
+        <entry key="CHINESE" value="827" />
         <entry key="ENGLISH" value="826" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
