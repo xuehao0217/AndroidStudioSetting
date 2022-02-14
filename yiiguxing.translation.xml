@@ -4,7 +4,6 @@
     <option name="newTranslationDialogWidth" value="645" />
     <option name="newTranslationDialogX" value="295" />
     <option name="newTranslationDialogY" value="286" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="Cannot access 'android.viewbinding.ViewBinding' which is a supertype of 'com.youxiang.library_face.databinding.LayoutAiMainResultFanganNewBinding'. Check your module classpath for missing or conflicting dependencies" />
       <item value="Cannot access 'android.viewbinding.ViewBinding' which is a supertype of 'com.youxiang.soyoungapp.module_face.databinding.LayoutAiMainResultEyesBrowBinding'. Check your module classpath for missing or conflicting dependencies" />
