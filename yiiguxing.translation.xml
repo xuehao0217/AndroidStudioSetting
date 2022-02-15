@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="295" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Base Real Visible Util" />
       <item value="Cannot access 'android.viewbinding.ViewBinding' which is a supertype of 'com.youxiang.library_face.databinding.LayoutAiMainResultFanganNewBinding'. Check your module classpath for missing or conflicting dependencies" />
       <item value="Cannot access 'android.viewbinding.ViewBinding' which is a supertype of 'com.youxiang.soyoungapp.module_face.databinding.LayoutAiMainResultEyesBrowBinding'. Check your module classpath for missing or conflicting dependencies" />
       <item value="interrogation" />
@@ -54,7 +55,6 @@
       <item value="fading Edge" />
       <item value="zhogn" />
       <item value="is defined multiple times" />
-      <item value="Could not resolve host: gitlab.sy.soyoung.com" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,10 +63,11 @@
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644466170050" />
+    <option name="lastTrimTime" value="1644910254567" />
   </component>
 </application>
