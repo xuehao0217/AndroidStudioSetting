@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="295" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Manifest merger failed : Attribute meta-datacom.amap.api.v2.apikey@value at AndroidManifest.xml:167:9-169:46 requires a placeholder substitution but no value for &lt;amap_apikey&gt; is provided." />
       <item value="地址" />
       <item value="dizh9i" />
       <item value="Returns the position of the ViewHolder in terms of the latest layout pass. This position is mostly used by RecyclerView components to be consistent while RecyclerView lazily processes adapter updates. For performance and animation reasons, RecyclerView batches all adapter updates until the next layout pass. This may cause mismatches between the Adapter position of the item and the position it had in the latest layout calculations. LayoutManagers should always call this method while doing calculations based on item positions. All methods in RecyclerView.LayoutManager, RecyclerView.State, RecyclerView.Recycler that receive a position expect it to be the layout position of the item. If LayoutManager needs to call an external method that requires the adapter position of the item, it can use getAbsoluteAdapterPosition() or RecyclerView.Recycler.convertPreLayoutPositionToPostLayout(int). Returns: Returns the adapter position of the ViewHolder in the latest layout pass. See Also: getBindingAdapterPosition(), getAbsoluteAdapterPosition()" />
@@ -54,12 +55,11 @@
       <item value="you'ming" />
       <item value="中转" />
       <item value="中zhuan" />
-      <item value="zho" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="848" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="CHINESE" value="850" />
+        <entry key="ENGLISH" value="851" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
