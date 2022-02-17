@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="295" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="The bottom sheet is collapsed." />
+      <item value="STATE COLLAPSED" />
       <item value="Manifest merger failed : Attribute meta-datacom.amap.api.v2.apikey@value at AndroidManifest.xml:167:9-169:46 requires a placeholder substitution but no value for &lt;amap_apikey&gt; is provided." />
       <item value="地址" />
       <item value="dizh9i" />
@@ -21,7 +23,6 @@
       <item value="搜索" />
       <item value="longitude" />
       <item value="The bottom sheet is hidden." />
-      <item value="The bottom sheet is collapsed." />
       <item value="boy Prob" />
       <item value="Connection refused (Connection refused)" />
       <item value="导航" />
@@ -54,12 +55,11 @@
       <item value="topu'ni" />
       <item value="you'ming" />
       <item value="中转" />
-      <item value="中zhuan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="851" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
