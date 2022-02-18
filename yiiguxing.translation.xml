@@ -5,13 +5,15 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="推荐" />
+      <item value="推荐妆容" />
+      <item value="tjui'jian" />
       <item value="Feature" />
       <item value="数据" />
       <item value="关键" />
       <item value="guan" />
       <item value="颜值" />
       <item value="yan'zhi" />
-      <item value="推荐" />
       <item value="重点" />
       <item value="zhong" />
       <item value="zhong'fu'a'b" />
@@ -53,13 +55,11 @@
       <item value="EventQueue.isDispatchThread()=false Toolkit.getEventQueue()=com.intellij.ide.IdeEventQueue@74db07e5 Current thread: Thread[ApplicationImpl pooled thread 303,4,Idea Thread Group] 1882944258 Write thread (volatile): Thread[AWT-EventQueue-0,6,Idea Thread Group] 1270922692com.intellij.openapi.diagnostic.Attachment@2cdbd526" />
       <item value="Execution failed for task ':app:mergeDebugNativeLibs'. &gt; A failure occurred while executing com.android.build.gradle.internal.tasks.WorkersActionFacade &gt; More than one file was found with OS independent path 'libarmeabi-v7alibfmod.so'. If you are using jniLibs and CMake IMPORTED targets, see" />
       <item value="class com.aserbao.androidcustomcamera.blocks.atestcases.EncodeDecodeTest, unresolved supertypes: AndroidTestCase" />
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
-      <item value="class com.aserbao.androidcustomcamera.blocks.atestcases.EncodeDecodeTest, unresolved supertypes: AndroidTestC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="937" />
-        <entry key="ENGLISH" value="938" />
+        <entry key="CHINESE" value="945" />
+        <entry key="ENGLISH" value="946" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
