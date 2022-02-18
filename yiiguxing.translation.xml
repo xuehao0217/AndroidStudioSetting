@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="推荐" />
       <item value="重点" />
       <item value="zhong" />
       <item value="zhong'fu'a'b" />
@@ -54,12 +55,11 @@
       <item value="梦幻" />
       <item value="data parcel size 545452 bytes" />
       <item value="extras size: 543680, icicle size: 0" />
-      <item value="Second failure launching com.youxiang.soyoungapp.module_face.activity.ResultSkinDetect2Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="908" />
-        <entry key="ENGLISH" value="909" />
+        <entry key="CHINESE" value="915" />
+        <entry key="ENGLISH" value="916" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
