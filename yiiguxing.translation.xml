@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Type mismatch: inferred type is SyTextView but Context was expected" />
       <item value="Details" />
       <item value="Feature" />
       <item value="d Feature Details" />
@@ -54,12 +55,11 @@
       <item value="heng" />
       <item value="HENG" />
       <item value="This type is final, so it cannot be inherited from" />
-      <item value="EventQueue.isDispatchThread()=false Toolkit.getEventQueue()=com.intellij.ide.IdeEventQueue@74db07e5 Current thread: Thread[ApplicationImpl pooled thread 303,4,Idea Thread Group] 1882944258 Write thread (volatile): Thread[AWT-EventQueue-0,6,Idea Thread Group] 1270922692com.intellij.openapi.diagnostic.Attachment@2cdbd526" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="948" />
-        <entry key="ENGLISH" value="949" />
+        <entry key="CHINESE" value="949" />
+        <entry key="ENGLISH" value="950" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
