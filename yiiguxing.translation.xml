@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Feature" />
+      <item value="数据" />
+      <item value="关键" />
+      <item value="guan" />
+      <item value="颜值" />
+      <item value="yan'zhi" />
       <item value="推荐" />
       <item value="重点" />
       <item value="zhong" />
@@ -49,17 +55,11 @@
       <item value="class com.aserbao.androidcustomcamera.blocks.atestcases.EncodeDecodeTest, unresolved supertypes: AndroidTestCase" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
       <item value="class com.aserbao.androidcustomcamera.blocks.atestcases.EncodeDecodeTest, unresolved supertypes: AndroidTestC" />
-      <item value="More than one file was found with OS independent path 'libarmeabi-v7alibfmod.so'. If you are using jniLibs and CMake IMPORTED targets, see" />
-      <item value="bb" />
-      <item value="梦" />
-      <item value="梦幻" />
-      <item value="data parcel size 545452 bytes" />
-      <item value="extras size: 543680, icicle size: 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="916" />
+        <entry key="CHINESE" value="937" />
+        <entry key="ENGLISH" value="938" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
