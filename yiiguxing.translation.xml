@@ -4,8 +4,9 @@
     <option name="newTranslationDialogWidth" value="645" />
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parames" />
+      <item value="参数&#10;" />
       <item value="programme" />
       <item value="Product" />
       <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter entity" />
@@ -54,18 +55,17 @@
       <item value="This method is confusing when adapters nest other adapters. If you are calling this in the context of an Adapter, you probably want to call getBindingAdapterPosition() or if you want the position as RecyclerView sees it, you should call getAbsoluteAdapterPosition(). Returns: getBindingAdapterPosition()" />
       <item value="There is no generic of ViewBinding." />
       <item value="How to modify the base adapter class to use view binding, you need the following steps: 1. Adds a generic of view binding to the base class. 2. Uses a class of view holder with binding instead of the class of original view holder. 3. Overrides the method of creating view holder and returns the view holder by the [inflateBindingWithGeneric] method. 4. It is recommended to override the method for binding view holder so that it is simpler to use. Here is the core code. If you use `BaseRecyclerViewAdapterHelper`, you can copy this file directly to use. @author Dylan Cai" />
-      <item value="java.lang.Runtime Exception" />
-      <item value="java.lang.reflect.InvocationTargetException at com.android.internal.os.RuntimeInitMethodAndArgsCaller.run(RuntimeInit.java:523)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="968" />
-        <entry key="ENGLISH" value="968" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="976" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
