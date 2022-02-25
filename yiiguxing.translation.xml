@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Weaker Access" />
+      <item value="Constructor for the target that takes the desired dimensions of the decoded andor transformed resource. Params: width – The width in pixels of the desired resource. height – The height in pixels of the desired resource." />
       <item value="Expected a string but was BEGIN_ARRAY at line 1 column 189 path .item_desc_list[0].exposure_ext" />
       <item value="Expected a string but was BEGIN_ARRAY" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings." />
@@ -53,13 +55,11 @@
       <item value="wi" />
       <item value="组件&#10;" />
       <item value="The bottom sheet is collapsed." />
-      <item value="STATE COLLAPSED" />
-      <item value="Manifest merger failed : Attribute meta-datacom.amap.api.v2.apikey@value at AndroidManifest.xml:167:9-169:46 requires a placeholder substitution but no value for &lt;amap_apikey&gt; is provided." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="983" />
+        <entry key="ENGLISH" value="984" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
