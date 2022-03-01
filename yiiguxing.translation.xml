@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="File Utils.exists(ai Repont Path)" />
       <item value="裁剪" />
       <item value="Weaker Access" />
       <item value="Constructor for the target that takes the desired dimensions of the decoded andor transformed resource. Params: width – The width in pixels of the desired resource. height – The height in pixels of the desired resource." />
@@ -54,7 +55,6 @@
       <item value="wei" />
       <item value="w" />
       <item value="wi" />
-      <item value="组件&#10;" />
     </histories>
     <option name="languageScores">
       <map>
