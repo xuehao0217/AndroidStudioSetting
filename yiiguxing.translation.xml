@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Parcelable encountered IOException writing serializable object" />
+      <item value="截图" />
+      <item value="ji'r" />
       <item value="File Utils.exists(ai Repont Path)" />
       <item value="裁剪" />
       <item value="Weaker Access" />
@@ -52,14 +55,11 @@
       <item value="组件" />
       <item value="控件" />
       <item value="weight" />
-      <item value="wei" />
-      <item value="w" />
-      <item value="wi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="993" />
+        <entry key="CHINESE" value="1001" />
+        <entry key="ENGLISH" value="1002" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
