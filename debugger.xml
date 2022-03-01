@@ -2268,6 +2268,9 @@
           <ChildrenExpression Name="">
             <TextWithImports text="&#13;&#13;JAVA" type="expression" />
           </ChildrenExpression>
+          <ChildrenExpression Name="">
+            <TextWithImports text="&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
         </Renderer>
       </Renderer>
     </CustomRenderers>
