@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Suspends the coroutine until this job is complete. This invocation resumes normally (without exception) when the job is complete for any reason and the Job of the invoking coroutine is still active. This function also starts the corresponding coroutine if the Job was still in new state. Note that the job becomes complete only when all its children are complete. This suspending function is cancellable and always checks for a cancellation of the invoking coroutine's Job. If the Job of the invoking coroutine is cancelled or completed when this suspending function is invoked or while it is suspended, this function throws CancellationException. In particular, it means that a parent coroutine invoking join on a child coroutine that was started using launch(coroutineContext) { ... } builder throws CancellationException if the child had crashed, unless a non-standard CoroutineExceptionHandler is installed in the context. This function can be used in select invocation with onJoin clause. Use isCompleted to check for a completion of this job without waiting. There is cancelAndJoin function that combines an invocation of cancel and join." />
+      <item value="join" />
+      <item value="Continue Record(" />
       <item value="delay Millis" />
       <item value="currentRecordTime &gt;= maxRecordTime" />
       <item value="current Record Time" />
@@ -52,14 +55,11 @@
       <item value="颜值" />
       <item value="yan'zhi" />
       <item value="重点" />
-      <item value="zhong" />
-      <item value="zhong'fu'a'b" />
-      <item value="zhon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1005" />
-        <entry key="ENGLISH" value="1006" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
