@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="DialogFragment can not be attached to a container view" />
       <item value="道具" />
       <item value="daoju" />
       <item value="m Asset Data List.get(pos).uuid" />
@@ -54,12 +55,11 @@
       <item value="Sets the height of the bottom sheet when it is collapsed. Params: peekHeight – The height of the collapsed bottom sheet in pixels, or PEEK_HEIGHT_AUTO to configure the sheet to peek automatically at 16:9 ratio keyline." />
       <item value="Multiplies this value by the other value." />
       <item value="Push was canceled, because there were conflicts during the update. Check that conflicts were resolved correctly, and invoke push again." />
-      <item value="开关" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1046" />
-        <entry key="ENGLISH" value="1046" />
+        <entry key="ENGLISH" value="1047" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
