@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="m Asset Data List.get(pos).uuid" />
       <item value="道具" />
       <item value="rvb tt record privacy" />
       <item value="灯" />
@@ -54,7 +55,6 @@
       <item value="Push was canceled, because there were conflicts during the update. Check that conflicts were resolved correctly, and invoke push again." />
       <item value="开关" />
       <item value="k" />
-      <item value="Gold" />
     </histories>
     <option name="languageScores">
       <map>
