@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Returns a copy of this string converted to lower case using Unicode mapping rules of the invariant locale. This function supports one-to-many and many-to-one character mapping, thus the length of the returned string can be different from the length of the original string. Samples: samples.text.Strings.lowercase Unresolved" />
+      <item value="to Lower Case" />
       <item value="RELATIVE TO SELF" />
       <item value="DialogFragment can not be attached to a container view" />
       <item value="道具" />
@@ -53,13 +55,11 @@
       <item value="Universal Activity" />
       <item value="java.lang.IllegalStateException: The application's PagerAdapter changed the adapter's contents without calling PagerAdapter#notifyDataSetChanged! Expected adapter item count: 7, found: 0 Pager id: com.youxiang.soyoungapp:id/viewPager Pager class: class androidx.viewpager.widget.ViewPager Problematic adapter: class com.soyoung.module_doc.map.SearchMapHosPageAdapter" />
       <item value="The bottom sheet is settling." />
-      <item value="Sets the height of the bottom sheet when it is collapsed. Params: peekHeight – The height of the collapsed bottom sheet in pixels, or PEEK_HEIGHT_AUTO to configure the sheet to peek automatically at 16:9 ratio keyline." />
-      <item value="Multiplies this value by the other value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1048" />
-        <entry key="ENGLISH" value="1049" />
+        <entry key="CHINESE" value="1050" />
+        <entry key="ENGLISH" value="1051" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
