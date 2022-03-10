@@ -5,8 +5,8 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
-      <item value="install Asset Package.to String()" />
       <item value="ASSET PACKAGE TYPE CAPTURESCENE" />
+      <item value="install Asset Package.to String()" />
       <item value="Returns a copy of this string converted to lower case using Unicode mapping rules of the invariant locale. This function supports one-to-many and many-to-one character mapping, thus the length of the returned string can be different from the length of the original string. Samples: samples.text.Strings.lowercase Unresolved" />
       <item value="to Lower Case" />
       <item value="RELATIVE TO SELF" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1052" />
-        <entry key="ENGLISH" value="1053" />
+        <entry key="CHINESE" value="1054" />
+        <entry key="ENGLISH" value="1054" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
