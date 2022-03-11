@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="279" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Capture Recording Finished" />
       <item value="Capture Device Preview Started" />
       <item value="Capture Device Preview Resolution Ready" />
       <item value="Capture Device Auto Focus" />
@@ -55,12 +56,11 @@
       <item value="Expected a string but was BEGIN_ARRAY" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="third graphic" />
-      <item value="Analysis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1083" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="CHINESE" value="1084" />
+        <entry key="ENGLISH" value="1085" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
