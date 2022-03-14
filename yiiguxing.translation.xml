@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="279" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Duplicate class" />
+      <item value="Go to the documentation to learn how to" />
+      <item value="Duplicate class com.bef.effectsdk.AudioPlayer found in modules jetified-SYDetectLib-0.0.1-runtime (com.soyoung.x.module:SYDetectLib:0.0.1) and jetified-template-0.1.1-runtime (com.soyoung.x.view:template:0.1.1)" />
       <item value="Playback" />
       <item value="Recording" />
       <item value="Compiling" />
@@ -53,14 +56,11 @@
       <item value="截图" />
       <item value="ji'r" />
       <item value="File Utils.exists(ai Repont Path)" />
-      <item value="裁剪" />
-      <item value="Weaker Access" />
-      <item value="Constructor for the target that takes the desired dimensions of the decoded andor transformed resource. Params: width – The width in pixels of the desired resource. height – The height in pixels of the desired resource." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1088" />
-        <entry key="ENGLISH" value="1089" />
+        <entry key="CHINESE" value="1091" />
+        <entry key="ENGLISH" value="1092" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646639010331" />
+    <option name="lastTrimTime" value="1647244503476" />
   </component>
 </application>
