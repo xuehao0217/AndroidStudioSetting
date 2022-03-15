@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="279" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Start Add Fx Time Stamp" />
+      <item value="has Capture Fx" />
       <item value="Arscene" />
       <item value="filter" />
       <item value="Model" />
@@ -54,13 +56,11 @@
       <item value="delay Millis" />
       <item value="currentRecordTime &gt;= maxRecordTime" />
       <item value="current Record Time" />
-      <item value="Concurrent Modification Exception" />
-      <item value="Parcelable encountered IOException writing serializable object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1094" />
-        <entry key="ENGLISH" value="1095" />
+        <entry key="CHINESE" value="1096" />
+        <entry key="ENGLISH" value="1097" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
