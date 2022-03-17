@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="279" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to verify the BEF license, Error: -119" />
       <item value=",get yShadingElement fail!" />
       <item value="Ipp Algo Smart AE" />
       <item value="do Smart AE Algo" />
@@ -55,12 +56,11 @@
       <item value="lv'jing" />
       <item value="Is Convert" />
       <item value="recordItems.size() == 1" />
-      <item value="m Cur Video Duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1105" />
-        <entry key="ENGLISH" value="1106" />
+        <entry key="CHINESE" value="1106" />
+        <entry key="ENGLISH" value="1107" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
