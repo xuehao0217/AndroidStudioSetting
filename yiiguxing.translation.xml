@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="y videoFxBeauty is not authorised" />
+      <item value="advancedBeautyNeat is not authorised!" />
       <item value=": Invalid asset package id" />
       <item value="Capture error occurred in capture device(index= 1)! errno=-2040107008" />
       <item value="must not be null" />
@@ -53,13 +55,11 @@
       <item value="mai'ke'f" />
       <item value="闪光灯" />
       <item value="get AR Scene Asset Package Prompt" />
-      <item value="预览" />
-      <item value="ASSET PACKAGE TYPE CAPTURESCENE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1122" />
-        <entry key="ENGLISH" value="1123" />
+        <entry key="CHINESE" value="1124" />
+        <entry key="ENGLISH" value="1125" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
