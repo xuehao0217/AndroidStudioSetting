@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="变美" />
+      <item value="bian'mei" />
       <item value="Failed to open asset package license file: due to No file name specified" />
       <item value="Smart cast to 'MSFaceAessetEntity.MSFaceAesset' is impossible, because 'plvTtView.getSelectData()' is a complex expression" />
       <item value=": Failed to open asset package license file: due to No file name specified" />
@@ -53,13 +55,11 @@
       <item value=",get yShadingElement fail!" />
       <item value="Ipp Algo Smart AE" />
       <item value="do Smart AE Algo" />
-      <item value="Unable to parse composition" />
-      <item value="Caused by: org.gradle.api.GradleException: ERROR: Failed to verify AGConnect-Config 'clientpackage_name', expected: 'com.youxiang.soyoungapp.price', but was: 'com.youxiang.soyoungapp'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1162" />
-        <entry key="ENGLISH" value="1163" />
+        <entry key="CHINESE" value="1169" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
