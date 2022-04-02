@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option Adding support for Java 8 language features could solve this issue." />
       <item value="变美" />
       <item value="bian'mei" />
       <item value="Failed to open asset package license file: due to No file name specified" />
@@ -54,12 +55,11 @@
       <item value="Failed to verify the BEF license, Error: -119" />
       <item value=",get yShadingElement fail!" />
       <item value="Ipp Algo Smart AE" />
-      <item value="do Smart AE Algo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1169" />
-        <entry key="ENGLISH" value="1170" />
+        <entry key="CHINESE" value="1170" />
+        <entry key="ENGLISH" value="1171" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
