@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Green" />
+      <item value="灰色" />
+      <item value="灰" />
+      <item value="GreenDay" />
       <item value="set Footer View As Flow" />
       <item value="Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6. Please specify proper '-jvm-target' option Adding support for Java 8 language features could solve this issue." />
       <item value="变美" />
@@ -51,15 +55,11 @@
       <item value="failed to getSceneMode" />
       <item value="You are not allowed to push code to protected branches on this project" />
       <item value="GitLab: You are not allowed to push code to protected branches on this project." />
-      <item value="on First Video Frame Presented" />
-      <item value="license version is [v3.9.2.2]" />
-      <item value="Failed to verify the BEF license, Error: -119" />
-      <item value=",get yShadingElement fail!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1171" />
-        <entry key="ENGLISH" value="1172" />
+        <entry key="CHINESE" value="1178" />
+        <entry key="ENGLISH" value="1177" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
