@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="Greenai " />
       <item value="Green" />
       <item value="灰色" />
       <item value="灰" />
@@ -54,7 +55,6 @@
       <item value="pointer dereference" />
       <item value="failed to getSceneMode" />
       <item value="You are not allowed to push code to protected branches on this project" />
-      <item value="GitLab: You are not allowed to push code to protected branches on this project." />
     </histories>
     <option name="languageScores">
       <map>
