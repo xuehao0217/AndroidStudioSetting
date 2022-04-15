@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="请" />
+      <item value="请求" />
+      <item value="请求=" />
+      <item value="请求&#10;" />
       <item value="录制&#10;" />
       <item value="本地&#10;" />
       <item value="Main Thread Checker:&quot;getCaptureVideoFxPackageId&quot; API called on a background thread" />
@@ -51,15 +55,11 @@
       <item value="Functionality" />
       <item value="smash face base model version;: tt_face_v8.2.model" />
       <item value="smash face base" />
-      <item value=": smash face extra model version;: tt_face_extra_v11.0.mod" />
-      <item value="signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x20" />
-      <item value="y videoFxBeauty is not authorised" />
-      <item value="advancedBeautyNeat is not authorised!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1222" />
-        <entry key="ENGLISH" value="1222" />
+        <entry key="CHINESE" value="1229" />
+        <entry key="ENGLISH" value="1229" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
