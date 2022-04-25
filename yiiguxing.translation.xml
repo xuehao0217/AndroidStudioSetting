@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="set Eye Brow Line View Data" />
       <item value="set Fit To Contents" />
       <item value="You are not allowed to push code to protected branches on this project." />
       <item value="GitLab: You are not allowed to push code to protected branches on this project." />
@@ -54,12 +55,11 @@
       <item value="Capture Caption" />
       <item value="Capture Compound Caption" />
       <item value="Capture Video Fx" />
-      <item value="remove All Capture Compound Caption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
-        <entry key="ENGLISH" value="1269" />
+        <entry key="CHINESE" value="1269" />
+        <entry key="ENGLISH" value="1270" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650425732748" />
+    <option name="lastTrimTime" value="1650857784924" />
   </component>
 </application>
