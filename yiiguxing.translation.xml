@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="291" />
     <option name="newTranslationDialogY" value="279" />
     <histories>
+      <item value="ScrolledDown" />
+      <item value="ScrolledToTop" />
+      <item value="onScrolledToTop" />
       <item value="The view is not associated with BottomSheetBehavior" />
       <item value="set Eye Brow Line View Data" />
       <item value="set Fit To Contents" />
@@ -52,13 +55,10 @@
       <item value="None of the following functions can be called with the arguments supplied:" />
       <item value="None of the following functions can be called with the arguments supplied." />
       <item value="children of ConstraintLayout must have ids to use ConstraintSet" />
-      <item value="截图" />
-      <item value="Capture Caption" />
-      <item value="Capture Compound Caption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
+        <entry key="CHINESE" value="1272" />
         <entry key="ENGLISH" value="1271" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="ALBANIAN" value="1" />
